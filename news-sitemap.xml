@@ -7,7 +7,7 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-11T11:00:01Z</news:publication_date>
+      <news:publication_date>2025-04-11T15:09:10Z</news:publication_date>
       <news:title>Chase Freedom Flex vs. Freedom Unlimited: Which Card Should You Get?</news:title>
     </news:news>
   </url>
@@ -64,17 +64,6 @@
       </news:publication>
       <news:publication_date>2025-04-09T18:28:52Z</news:publication_date>
       <news:title>TSA PreCheck vs. Global Entry vs. Nexus vs. CLEAR</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-vs-sapphire-reserve</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-09T15:40:59Z</news:publication_date>
-      <news:title>Chase Sapphire Preferred vs. Sapphire Reserve: Which Card Should You Get?</news:title>
     </news:news>
   </url>
 </urlset>
