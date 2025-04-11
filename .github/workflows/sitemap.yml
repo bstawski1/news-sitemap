@@ -1,0 +1,3 @@
+yamlCopyEditname: Generate Google News Sitemapon:schedule:- cron: '0 * * * *'  # Every hourworkflow_dispatch:permissions:contents: writejobs:build:runs-on: ubuntu-lateststeps:- name: Checkout repouses: actions/checkout@v3- name: Set up Pythonuses: actions/setup-python@v4with:python-version: '3.11'- name: Install dependenciesrun: pip install feedparser- name: Generate sitemaprun: python generate-sitemap.py- name: Prepare for publishingrun: |
+          mkdir -p public
+          mv news-sitemap.xml public/- name: Deploy to GitHub Pagesuses: peaceiris/actions-gh-pages@v3with:github_token: ${{ secrets.GITHUB_TOKEN }}publish_dir: ./public 
