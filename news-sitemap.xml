@@ -44,26 +44,4 @@
       <news:title>Chase Freedom Flex vs. Freedom Unlimited: Which Card Should You Get?</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/founder-s-letter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-10T21:39:39Z</news:publication_date>
-      <news:title>A Note From Our Founder</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/our-top-credit-cards-for-february-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-10T21:24:16Z</news:publication_date>
-      <news:title>Our Top Credit Cards for February 2025</news:title>
-    </news:news>
-  </url>
 </urlset>
