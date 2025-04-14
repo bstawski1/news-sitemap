@@ -7,8 +7,19 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-14T17:19:20Z</news:publication_date>
+      <news:publication_date>2025-04-14T20:56:46Z</news:publication_date>
       <news:title>Should You Buy Miles and Points?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-new-york-to-santiago</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-14T20:54:41Z</news:publication_date>
+      <news:title>Deal Alert: New York to Santiago for $554 Round-trip</news:title>
     </news:news>
   </url>
   <url>
