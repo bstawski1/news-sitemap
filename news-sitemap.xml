@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/guide-for-in-flight-wifi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-15T14:15:11Z</news:publication_date>
+      <news:title>The Ultimate Guide to Free In-Flight Wi-Fi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/should-you-buy-miles-and-points-b86c</loc>
     <news:news>
       <news:publication>
@@ -31,17 +42,6 @@
       </news:publication>
       <news:publication_date>2025-04-14T17:19:20Z</news:publication_date>
       <news:title>How to Spend 3 Days in Ireland</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/guide-for-in-flight-wifi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-14T17:19:20Z</news:publication_date>
-      <news:title>The Ultimate Guide to Free In-Flight Wi-Fi</news:title>
     </news:news>
   </url>
   <url>
