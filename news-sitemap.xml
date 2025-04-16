@@ -1,58 +1,14 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.dailydrop.com/pages/is-the-capital-one-spark-miles-for-business-card-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-16T13:38:48Z</news:publication_date>
-      <news:title>Is the Capital One Spark Miles for Business Card Right for You?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-capital-one-spark-cash-plus-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-16T13:38:39Z</news:publication_date>
-      <news:title>Is The Capital One® Spark Cash Plus Right For You?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-capital-one-venture-rewards-credit-card-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-16T13:37:22Z</news:publication_date>
-      <news:title>Is the Capital One Venture Rewards Credit Card right for you?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.dailydrop.com/pages/is-amex-gold-fee-worth-it</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-16T13:35:58Z</news:publication_date>
-      <news:title>Is the Amex Gold Card’s Annual Fee Worth It?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-capital-one-venture-x-rewards-credit-card-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-16T13:34:46Z</news:publication_date>
-      <news:title>Is the Capital One Venture X Rewards Credit Card Right For You?</news:title>
+      <news:publication_date>2025-04-16T14:44:53Z</news:publication_date>
+      <news:title>Is the Amex Gold Card’s $325 Annual Fee Worth It?</news:title>
     </news:news>
   </url>
   <url>
@@ -62,8 +18,19 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-16T13:23:27Z</news:publication_date>
+      <news:publication_date>2025-04-16T14:18:27Z</news:publication_date>
       <news:title>Is the Capital One Spark Cash Select Card Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-capital-one-spark-cash-plus-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-16T14:18:27Z</news:publication_date>
+      <news:title>Is The Capital One® Spark Cash Plus Right For You?</news:title>
     </news:news>
   </url>
   <url>
@@ -73,8 +40,41 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-16T13:20:57Z</news:publication_date>
+      <news:publication_date>2025-04-16T14:18:27Z</news:publication_date>
       <news:title>Is The Venture X Business® Card Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-capital-one-spark-miles-for-business-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-16T14:18:27Z</news:publication_date>
+      <news:title>Is the Capital One Spark Miles for Business Card Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-capital-one-venture-rewards-credit-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-16T14:18:27Z</news:publication_date>
+      <news:title>Is the Capital One Venture Rewards Credit Card right for you?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-capital-one-venture-x-rewards-credit-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-16T14:18:27Z</news:publication_date>
+      <news:title>Is the Capital One Venture X Rewards Credit Card Right For You?</news:title>
     </news:news>
   </url>
   <url>
