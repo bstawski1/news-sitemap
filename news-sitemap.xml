@@ -1,6 +1,39 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/daily-drop-s-guide-to-southwest-rapid-rewards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-17T16:15:05Z</news:publication_date>
+      <news:title>Your Ultimate Guide to Southwest Rapid Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/business-card-eligilbility</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-17T14:32:08Z</news:publication_date>
+      <news:title>Can You Get a Business Credit Card Without a Business?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-business-platinum-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-17T14:24:07Z</news:publication_date>
+      <news:title>Is The Business Platinum Card® Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/is-amex-gold-fee-worth-it</loc>
     <news:news>
       <news:publication>
@@ -207,50 +240,6 @@
       </news:publication>
       <news:publication_date>2025-04-15T19:41:02Z</news:publication_date>
       <news:title>Is the Ink Business Preferred® right for you?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/chase-freedom-calendar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-15T15:37:19Z</news:publication_date>
-      <news:title>Chase Freedom 5% Cash Back Categories: 2025 Calendar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/deal-new-york-to-santiago</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-15T15:37:19Z</news:publication_date>
-      <news:title>Deal Alert: New York to Santiago for $554 Round-trip</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/guide-for-in-flight-wifi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-15T15:37:19Z</news:publication_date>
-      <news:title>The Ultimate Guide to Free In-Flight Wi-Fi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/should-you-buy-miles-and-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-15T15:37:19Z</news:publication_date>
-      <news:title>Should You Buy Miles and Points?</news:title>
     </news:news>
   </url>
 </urlset>
