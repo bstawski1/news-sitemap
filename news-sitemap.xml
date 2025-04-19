@@ -33,15 +33,4 @@
       <news:title>The Ultimate Guide to Free In-Flight Wi-Fi</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/the-ultimate-guide-to-marriott-bonvoy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-17T18:47:01Z</news:publication_date>
-      <news:title>The Ultimate Guide to Marriott Bonvoy</news:title>
-    </news:news>
-  </url>
 </urlset>
