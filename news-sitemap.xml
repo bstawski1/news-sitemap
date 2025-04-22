@@ -1,14 +1,36 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/amex-membership-rewards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-22T17:47:15Z</news:publication_date>
+      <news:title>Complete Guide to American Express Membership Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/opportunity-cost-cash-back</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-22T11:00:01Z</news:publication_date>
+      <news:publication_date>2025-04-22T16:32:49Z</news:publication_date>
       <news:title>Opportunity Cost and the Case for Cash Back</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/one-of-our-favorite-hotel-cards-just-got-even-better</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-22T16:32:49Z</news:publication_date>
+      <news:title>One of Our Favorite Hotel Cards Just Got Even Better</news:title>
     </news:news>
   </url>
   <url>
