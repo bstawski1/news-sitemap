@@ -7,7 +7,7 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-23T18:19:59Z</news:publication_date>
+      <news:publication_date>2025-04-23T20:00:40Z</news:publication_date>
       <news:title>My Experience Traveling to Libya in 2025</news:title>
     </news:news>
   </url>
@@ -64,28 +64,6 @@
       </news:publication>
       <news:publication_date>2025-04-22T16:32:49Z</news:publication_date>
       <news:title>One of Our Favorite Hotel Cards Just Got Even Better</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/deal-los-angeles-to-dubai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-21T19:53:25Z</news:publication_date>
-      <news:title>Deal Alert: Los Angeles to Dubai for $651 Round-Trip</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/best-ways-book-ana-business-class-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-21T19:53:25Z</news:publication_date>
-      <news:title>How to Book ANA Business Class With Points</news:title>
     </news:news>
   </url>
 </urlset>
