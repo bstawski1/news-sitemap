@@ -1,25 +1,36 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.dailydrop.com/pages/credit-card-approval-tips</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-24T12:00:01Z</news:publication_date>
-      <news:title>How to Get Approved for a Credit Card</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.dailydrop.com/pages/traveling-to-libya</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-23T20:00:40Z</news:publication_date>
+      <news:publication_date>2025-04-24T16:10:12Z</news:publication_date>
       <news:title>My Experience Traveling to Libya in 2025</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/credit-card-approval-tips</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-24T15:54:42Z</news:publication_date>
+      <news:title>How to Get Approved for a Credit Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/earn-southwest-companion-pass-for-under-100</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-24T15:54:42Z</news:publication_date>
+      <news:title>Earn Southwest Companion Pass for under $100</news:title>
     </news:news>
   </url>
   <url>
