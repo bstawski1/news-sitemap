@@ -1,13 +1,24 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/southwest-fare-changes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-29T19:28:24Z</news:publication_date>
+      <news:title>Southwest’s New Fare Bundles, Assigned Seating, and Cardholder Perks</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/how-to-travel-smarter</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-29T17:04:37Z</news:publication_date>
+      <news:publication_date>2025-04-29T18:29:52Z</news:publication_date>
       <news:title>How to Travel Smarter in 2025</news:title>
     </news:news>
   </url>
