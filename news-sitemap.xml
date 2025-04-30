@@ -1,13 +1,24 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/one-of-our-favorite-hotel-cards-just-got-even-better</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-30T15:59:29Z</news:publication_date>
+      <news:title>One of Our Favorite Hotel Cards Just Got Even Better</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/deal-business-class-to-dublin</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-29T21:00:25Z</news:publication_date>
+      <news:publication_date>2025-04-30T14:31:09Z</news:publication_date>
       <news:title>Deal Alert: Fly Business-Class to Dublin for 45k Points</news:title>
     </news:news>
   </url>
@@ -18,7 +29,7 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-29T19:28:24Z</news:publication_date>
+      <news:publication_date>2025-04-30T14:31:09Z</news:publication_date>
       <news:title>Southwest’s New Fare Bundles, Assigned Seating, and Cardholder Perks</news:title>
     </news:news>
   </url>
@@ -29,7 +40,7 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-29T18:29:52Z</news:publication_date>
+      <news:publication_date>2025-04-30T14:31:09Z</news:publication_date>
       <news:title>How to Travel Smarter in 2025</news:title>
     </news:news>
   </url>
