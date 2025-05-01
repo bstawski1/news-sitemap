@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.dailydrop.com/pages/introducing-daily-drop-pro</loc>
+    <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-30T20:08:26Z</news:publication_date>
-      <news:title>What is Daily Drop Pro?</news:title>
+      <news:publication_date>2025-05-01T16:13:02Z</news:publication_date>
+      <news:title>Current Point Transfer Bonuses</news:title>
     </news:news>
   </url>
   <url>
@@ -18,8 +18,30 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-30T18:31:59Z</news:publication_date>
+      <news:publication_date>2025-05-01T15:40:43Z</news:publication_date>
       <news:title>Hyatt vs. Hilton: Best All-Inclusive Hotels for Points, Perks, and Service</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-chase-freedom-unlimited-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-01T15:40:43Z</news:publication_date>
+      <news:title>Is the Chase Freedom Unlimited Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/introducing-daily-drop-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-01T15:40:43Z</news:publication_date>
+      <news:title>What is Daily Drop Pro?</news:title>
     </news:news>
   </url>
   <url>
@@ -29,8 +51,19 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-04-30T17:50:38Z</news:publication_date>
+      <news:publication_date>2025-05-01T15:40:43Z</news:publication_date>
       <news:title>The Ultimate Guide to Marriott Bonvoy</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-power-of-a-credit-card-trifecta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-01T15:40:43Z</news:publication_date>
+      <news:title>The Power of a Credit Card Trifecta</news:title>
     </news:news>
   </url>
   <url>
