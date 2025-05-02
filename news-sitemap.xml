@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/5-reasons-why-the-chase-sapphire-preferred-card-is-great-for-retirees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-02T16:04:23Z</news:publication_date>
+      <news:title>5 Reasons Why the Chase Sapphire Preferred Card is Great for Retirees</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-chase-freedom-unlimited-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-02T14:26:32Z</news:publication_date>
+      <news:title>Is the Chase Freedom Unlimited Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/how-to-open-cards-young-adult</loc>
     <news:news>
       <news:publication>
@@ -20,17 +42,6 @@
       </news:publication>
       <news:publication_date>2025-05-01T22:49:10Z</news:publication_date>
       <news:title>Ending Soon: Earn up to 100,000 bonus points with the Chase Sapphire Preferred</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-chase-freedom-unlimited-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-01T22:49:10Z</news:publication_date>
-      <news:title>Is the Chase Freedom Unlimited Right For You?</news:title>
     </news:news>
   </url>
   <url>
@@ -119,50 +130,6 @@
       </news:publication>
       <news:publication_date>2025-04-30T16:58:34Z</news:publication_date>
       <news:title>3 Best Ways to Use 100,000 Chase Ultimate Rewards Points</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/one-of-our-favorite-hotel-cards-just-got-even-better</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-30T15:59:29Z</news:publication_date>
-      <news:title>One of Our Favorite Hotel Cards Just Got Even Better</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/deal-business-class-to-dublin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-30T14:31:09Z</news:publication_date>
-      <news:title>Deal Alert: Fly Business-Class to Dublin for 45k Points</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/southwest-fare-changes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-30T14:31:09Z</news:publication_date>
-      <news:title>Southwest’s New Fare Bundles, Assigned Seating, and Cardholder Perks</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-travel-smarter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-04-30T14:31:09Z</news:publication_date>
-      <news:title>How to Travel Smarter in 2025</news:title>
     </news:news>
   </url>
 </urlset>
