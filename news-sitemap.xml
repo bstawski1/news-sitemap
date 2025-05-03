@@ -7,30 +7,8 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-05-02T17:44:27Z</news:publication_date>
+      <news:publication_date>2025-05-02T22:32:52Z</news:publication_date>
       <news:title>Deal Alert: Fly to Quito for 5.7k Points</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/5-reasons-why-the-chase-sapphire-preferred-card-is-great-for-retirees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-02T16:04:23Z</news:publication_date>
-      <news:title>5 Reasons Why the Chase Sapphire Preferred Card is Great for Retirees</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-chase-freedom-unlimited-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-02T14:26:32Z</news:publication_date>
-      <news:title>Is the Chase Freedom Unlimited Right For You?</news:title>
     </news:news>
   </url>
   <url>
@@ -40,8 +18,30 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-05-02T11:00:02Z</news:publication_date>
+      <news:publication_date>2025-05-02T22:32:52Z</news:publication_date>
       <news:title>How I Opened 4 Credit Cards by Age 23</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-chase-freedom-unlimited-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-02T22:32:52Z</news:publication_date>
+      <news:title>Is the Chase Freedom Unlimited Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/5-reasons-why-the-chase-sapphire-preferred-card-is-great-for-retirees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-02T22:32:52Z</news:publication_date>
+      <news:title>5 Reasons Why the Chase Sapphire Preferred Card is Great for Retirees</news:title>
     </news:news>
   </url>
   <url>
