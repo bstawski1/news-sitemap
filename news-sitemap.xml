@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/all-about-fifth-freedom-routes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-06T20:10:55Z</news:publication_date>
+      <news:title>What Are Fifth Freedom Flights and How to Book Them</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/amex-offers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-06T19:58:39Z</news:publication_date>
+      <news:title>How to Save Money with Amex Offers</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/the-ultimate-guide-to-world-of-hyatt</loc>
     <news:news>
       <news:publication>
@@ -152,17 +174,6 @@
       </news:publication>
       <news:publication_date>2025-05-05T15:21:59Z</news:publication_date>
       <news:title>How To Downgrade A Chase Credit Card</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/all-about-fifth-freedom-routes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-05T11:00:46Z</news:publication_date>
-      <news:title>What Are Fifth Freedom Flights and How to Book Them</news:title>
     </news:news>
   </url>
 </urlset>
