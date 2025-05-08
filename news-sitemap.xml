@@ -1,6 +1,39 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/is-the-platinum-card-r-from-american-express-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-08T20:15:17Z</news:publication_date>
+      <news:title>Is The Platinum Card® from American Express Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/should-you-renew-the-american-express-platinum</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-08T20:09:51Z</news:publication_date>
+      <news:title>Should You Renew the American Express Platinum?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-amex-platinum-card-worth-the-annual-fee</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-08T19:10:26Z</news:publication_date>
+      <news:title>Is the Amex Platinum card worth the annual fee?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-offer</loc>
     <news:news>
       <news:publication>
@@ -53,28 +86,6 @@
       </news:publication>
       <news:publication_date>2025-05-06T23:15:52Z</news:publication_date>
       <news:title>Complete Guide to Bilt Rewards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/all-about-fifth-freedom-routes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-06T20:10:55Z</news:publication_date>
-      <news:title>What Are Fifth Freedom Flights and How to Book Them</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/amex-offers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-06T19:58:39Z</news:publication_date>
-      <news:title>How to Save Money with Amex Offers</news:title>
     </news:news>
   </url>
 </urlset>
