@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/chase-travel-portal-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-08T16:07:05Z</news:publication_date>
+      <news:title>How to Use the Chase Travel Portal</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/united-card-overhaul</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-08T15:48:37Z</news:publication_date>
+      <news:title>Major Changes to United Cards: New Benefits, Welcome Offers and Higher Annual Fees</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/deal-paris-for-12k-points</loc>
     <news:news>
       <news:publication>
