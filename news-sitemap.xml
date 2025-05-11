@@ -11,37 +11,4 @@
       <news:title>What is Daily Drop</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/elite-hotel-benefits-without-status</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-09T15:43:12Z</news:publication_date>
-      <news:title>How to Get Elite-Like Benefits Without Hotel Status</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/southwest-fare-changes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-09T15:42:03Z</news:publication_date>
-      <news:title>Southwest’s New Fare Bundles, Assigned Seating, and Cardholder Perks</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/chase-travel-portal-guide</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-09T15:16:11Z</news:publication_date>
-      <news:title>How to Use the Chase Travel Portal</news:title>
-    </news:news>
-  </url>
 </urlset>
