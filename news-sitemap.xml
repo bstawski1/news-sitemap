@@ -187,37 +187,4 @@
       <news:title>Complete Guide to Bilt Rewards</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/trusted-traveler-programs-explained</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-13T13:03:20Z</news:publication_date>
-      <news:title>TSA PreCheck vs. Global Entry vs. Nexus vs. CLEAR</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/capital-one-miles-guide</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-13T13:03:07Z</news:publication_date>
-      <news:title>Complete Guide to Capital One Miles</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/tsa-precheck</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-13T13:02:17Z</news:publication_date>
-      <news:title>Daily Drop's Guide to TSA PreCheck®</news:title>
-    </news:news>
-  </url>
 </urlset>
