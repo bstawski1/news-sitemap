@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/how-to-earn-miles-and-points-from-your-wedding-expenses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-16T17:48:06Z</news:publication_date>
+      <news:title>How to Earn Miles and Points from Your Wedding Expenses</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/the-ultimate-guide-to-marriott-bonvoy</loc>
     <news:news>
       <news:publication>
@@ -207,17 +218,6 @@
       </news:publication>
       <news:publication_date>2025-05-15T14:23:52Z</news:publication_date>
       <news:title>When to Upgrade, Downgrade, or Cancel a Credit Card</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-earn-miles-and-points-from-your-wedding-expenses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-15T14:23:48Z</news:publication_date>
-      <news:title>How to Earn Miles and Points from Your Wedding Expenses</news:title>
     </news:news>
   </url>
   <url>
