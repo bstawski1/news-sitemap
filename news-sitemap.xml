@@ -88,26 +88,4 @@
       <news:title>How to Upgrade Your Credit Card (But Should You?)</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-amex-platinum-card-worth-the-annual-fee</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-15T18:18:16Z</news:publication_date>
-      <news:title>Is the Amex Platinum card worth the annual fee?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/deal-dc-to-lisbon-delta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-15T18:08:27Z</news:publication_date>
-      <news:title>Deal Alert: D.C. to Lisbon for $384 Round-Trip on Delta</news:title>
-    </news:news>
-  </url>
 </urlset>
