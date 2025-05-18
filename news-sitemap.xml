@@ -22,15 +22,4 @@
       <news:title>The Ultimate Guide to Marriott Bonvoy</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-16T12:44:12Z</news:publication_date>
-      <news:title>Current Point Transfer Bonuses</news:title>
-    </news:news>
-  </url>
 </urlset>
