@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/is-the-bilt-mastercard-r-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-30T20:14:04Z</news:publication_date>
+      <news:title>Is The Bilt Mastercard Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/united-jetblue-partnership</loc>
     <news:news>
       <news:publication>
@@ -130,17 +141,6 @@
       </news:publication>
       <news:publication_date>2025-05-30T15:13:56Z</news:publication_date>
       <news:title>Complete Guide to Citi ThankYou® Rewards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-bilt-mastercard-r-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:04:33Z</news:publication_date>
-      <news:title>Is The Bilt Mastercard® Right For You?</news:title>
     </news:news>
   </url>
   <url>
@@ -284,17 +284,6 @@
       </news:publication>
       <news:publication_date>2025-05-29T16:20:49Z</news:publication_date>
       <news:title>Our Top Credit Cards for February 2025</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/southwest-rapid-rewards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-28T19:28:53Z</news:publication_date>
-      <news:title>Complete Guide to Southwest Rapid Rewards</news:title>
     </news:news>
   </url>
 </urlset>
