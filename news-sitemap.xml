@@ -1,14 +1,47 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/miles-points-101-earning-and-redeeming-miles-and-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-30T20:29:08Z</news:publication_date>
+      <news:title>Miles &amp; Points 101: Earning and Redeeming Miles and Points</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/is-the-bilt-mastercard-r-right-for-you</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-05-30T20:14:04Z</news:publication_date>
+      <news:publication_date>2025-05-30T20:27:49Z</news:publication_date>
       <news:title>Is The Bilt Mastercard Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/daily-drop-s-guide-to-virgin-atlantic-flying-club</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-30T20:26:56Z</news:publication_date>
+      <news:title>Daily Drop's Guide to Virgin Atlantic Flying Club</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/miles-points-101-nate-s-points-earning-philosophy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-30T20:25:08Z</news:publication_date>
+      <news:title>Miles &amp; Points 101: Nate's Points-Earning Philosophy</news:title>
     </news:news>
   </url>
   <url>
