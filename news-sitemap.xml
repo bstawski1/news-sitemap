@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/aa-787-9p-first-look</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-01T16:00:50Z</news:publication_date>
+      <news:title>First Look: American’s New 787 Dreamliner With Flagship Suites</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/discover-cash-back-calendar</loc>
     <news:news>
       <news:publication>
@@ -75,204 +86,6 @@
       </news:publication>
       <news:publication_date>2025-05-30T16:46:09Z</news:publication_date>
       <news:title>Complete Guide to Chase Ultimate Rewards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-book-this-12k-private-island-for-free</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:48:55Z</news:publication_date>
-      <news:title>How to Book This $12k Private Island for Free</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-book-a-free-vacation-using-world-of-hyatt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:34:27Z</news:publication_date>
-      <news:title>How to Book a Free Vacation Using World of Hyatt</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/bilt-points-student-loans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:33:46Z</news:publication_date>
-      <news:title>How to Pay Student Loans and Earn Points on Campus Rent With Bilt</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/bilt-rewards-guide</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:19:36Z</news:publication_date>
-      <news:title>Complete Guide to Bilt Rewards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-earn-bilt-rewards-without-getting-the-bilt-mastercard-r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:19:11Z</news:publication_date>
-      <news:title>How to Earn Bilt Rewards Without Getting the Bilt Mastercard®</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-open-cards-young-adult</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:19:03Z</news:publication_date>
-      <news:title>How I Opened 4 Credit Cards by Age 23</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-fly-lufthansa-first-class-using-miles-and-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:18:54Z</news:publication_date>
-      <news:title>How to Fly Lufthansa First Class Using Miles and Points</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/the-ultimate-guide-to-hilton-honors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:18:49Z</news:publication_date>
-      <news:title>The Ultimate Guide to Hilton Honors</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/transferable-points-vs-airline-miles</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:18:41Z</news:publication_date>
-      <news:title>Why You Should Focus on Transferable Points Over Airline Miles</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/citi-thankyou-rewards-guide</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:13:56Z</news:publication_date>
-      <news:title>Complete Guide to Citi ThankYou® Rewards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/the-ultimate-guide-to-marriott-bonvoy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:04:29Z</news:publication_date>
-      <news:title>The Ultimate Guide to Marriott Bonvoy</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/the-go-to-guide-for-credit-card-transfer-partners</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:04:16Z</news:publication_date>
-      <news:title>The Go-To Guide for Credit Card Transfer Partners</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-book-a-disney-world-vacation-with-miles-and-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:04:10Z</news:publication_date>
-      <news:title>How to Book a Disney World Vacation with Miles and Points</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/all-about-fifth-freedom-routes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:04:04Z</news:publication_date>
-      <news:title>What Are Fifth Freedom Flights and How to Book Them</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/why-we-love-the-bilt-mastercard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:03:59Z</news:publication_date>
-      <news:title>Why We Love The Bilt Mastercard</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/fly-to-hawaii-with-points-miles</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:03:55Z</news:publication_date>
-      <news:title>How to Fly to Hawaii With Points and Miles</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/fly-qatar-using-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:03:42Z</news:publication_date>
-      <news:title>How to Fly Qatar Airways for Nearly Free Using Points</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/airline-change-and-cancellation-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T15:03:33Z</news:publication_date>
-      <news:title>Complete Guide to Airline Change and Cancellation Rules</news:title>
     </news:news>
   </url>
 </urlset>
