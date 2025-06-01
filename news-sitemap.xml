@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/discover-cash-back-calendar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-01T14:00:03Z</news:publication_date>
+      <news:title>Discover 5% Cash Back Categories: 2025 Calendar and How to Maximize</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/united-jetblue-partnership</loc>
     <news:news>
       <news:publication>
@@ -262,17 +273,6 @@
       </news:publication>
       <news:publication_date>2025-05-30T15:03:33Z</news:publication_date>
       <news:title>Complete Guide to Airline Change and Cancellation Rules</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/citi-double-cash-vs-custom-cash</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-05-30T13:02:59Z</news:publication_date>
-      <news:title>Citi Double Cash vs. Citi Custom Cash: Which Card Is Right for You?</news:title>
     </news:news>
   </url>
 </urlset>
