@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/discover-cash-back-calendar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T04:16:22Z</news:publication_date>
+      <news:title>Discover 5% Cash Back Calendar: Activate Q3 2025 Categories</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
     <news:news>
       <news:publication>
@@ -9,17 +20,6 @@
       </news:publication>
       <news:publication_date>2025-06-01T21:01:39Z</news:publication_date>
       <news:title>Current Point Transfer Bonuses</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/discover-cash-back-calendar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-01T20:51:50Z</news:publication_date>
-      <news:title>Discover 5% Cash Back Categories: 2025 Calendar and How to Maximize</news:title>
     </news:news>
   </url>
   <url>
