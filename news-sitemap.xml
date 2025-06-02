@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/amazon-spring-sale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T16:05:38Z</news:publication_date>
+      <news:title>Save on Our Favorite Travel Accessories During Amazon's Big Spring Sale</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/daily-drop-s-guide-to-united-mileageplus</loc>
     <news:news>
       <news:publication>
@@ -383,17 +394,6 @@
       </news:publication>
       <news:publication_date>2025-06-02T15:24:23Z</news:publication_date>
       <news:title>One-Way Flights vs. Round-Trip Flights: Which Should You Book?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/amazon-spring-sale</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-02T15:24:10Z</news:publication_date>
-      <news:title>Save on Our Favorite Travel Accessories During Amazon's Big Spring Sale</news:title>
     </news:news>
   </url>
   <url>
