@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/capital-one-lounge-access-changes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-03T21:10:23Z</news:publication_date>
+      <news:title>Capital One Airport Lounge Access is Changing in 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/aa-787-9p-first-look</loc>
     <news:news>
       <news:publication>
@@ -988,17 +999,6 @@
       </news:publication>
       <news:publication_date>2025-06-02T06:48:27Z</news:publication_date>
       <news:title>What is Daily Drop</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-01T21:01:39Z</news:publication_date>
-      <news:title>Current Point Transfer Bonuses</news:title>
     </news:news>
   </url>
 </urlset>
