@@ -1,2 +1,1015 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.dailydrop.com/pages/aa-787-9p-first-look</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-03T18:04:08Z</news:publication_date>
+      <news:title>First Look: American’s New 787 Dreamliner With Flagship Suites</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/amazon-spring-sale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T16:05:38Z</news:publication_date>
+      <news:title>Save on Our Favorite Travel Accessories During Amazon's Big Spring Sale</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/daily-drop-s-guide-to-united-mileageplus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:51:25Z</news:publication_date>
+      <news:title>Ultimate Guide to United MileagePlus</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-ultimate-rewards-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:50:29Z</news:publication_date>
+      <news:title>Complete Guide to Chase Ultimate Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/four-countries-four-hiltons-for-free-hilton-honors-crash-course</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:38:19Z</news:publication_date>
+      <news:title>Four Countries, Four Hiltons, For Free | Hilton Honors Crash Course</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-book-turkish-business-class-using-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:38:12Z</news:publication_date>
+      <news:title>How to Book Turkish Business Class Using Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/credit-card-approval-tips</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:38:03Z</news:publication_date>
+      <news:title>How to Get Approved for a Credit Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-dc-to-zurich</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:37:55Z</news:publication_date>
+      <news:title>Deal Alert: D.C. to Zurich for $446 Round-trip</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/daily-drop-s-guide-to-virgin-atlantic-flying-club</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:36:27Z</news:publication_date>
+      <news:title>Daily Drop's Guide to Virgin Atlantic Flying Club</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-climb-the-credit-card-ladder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:36:15Z</news:publication_date>
+      <news:title>How to Climb the Credit Card Ladder</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-perfect-pair-chase-sapphire-preferred-capital-one-venture-x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:36:01Z</news:publication_date>
+      <news:title>The Perfect Pair: Chase Sapphire Preferred &amp; Capital One Venture X</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/southwest-rapid-rewards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:35:50Z</news:publication_date>
+      <news:title>Complete Guide to Southwest Rapid Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-earn-miles-and-points-from-your-wedding-expenses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:35:32Z</news:publication_date>
+      <news:title>How to Earn Miles and Points from Your Wedding Expenses</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-earn-over-a-million-chase-ultimate-rewards-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:35:24Z</news:publication_date>
+      <news:title>How To Earn Over a Million Chase Ultimate Rewards Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/opportunity-cost-cash-back</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:35:20Z</news:publication_date>
+      <news:title>Opportunity Cost and the Case for Cash Back</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/freedom-flex-vs-freedom-unlimited</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:35:14Z</news:publication_date>
+      <news:title>Chase Freedom Flex vs. Freedom Unlimited: Which Card Should You Get?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/fly-qatar-using-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:35:11Z</news:publication_date>
+      <news:title>How to Fly Qatar Airways for Nearly Free Using Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-los-angeles-to-dubai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:34:59Z</news:publication_date>
+      <news:title>Deal Alert: Los Angeles to Dubai for $651 Round-Trip</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-dc-to-lisbon-delta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:34:54Z</news:publication_date>
+      <news:title>Deal Alert: D.C. to Lisbon for $384 Round-Trip on Delta</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/aa-punta-cana-award-sale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:34:50Z</news:publication_date>
+      <news:title>Deal Alert: Fly to Punta Cana from just 5,000 miles one-way</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-vs-sapphire-reserve</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:34:17Z</news:publication_date>
+      <news:title>Chase Sapphire Preferred vs. Sapphire Reserve: Which Card Should You Get?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/7-ways-to-travel-more-in-2024</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:33:42Z</news:publication_date>
+      <news:title>7 Ways to Travel More in 2024</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-power-of-a-credit-card-trifecta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:33:25Z</news:publication_date>
+      <news:title>The Power of a Credit Card Trifecta</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/when-to-upgrade-downgrade-or-cancel-a-credit-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:33:20Z</news:publication_date>
+      <news:title>When to Upgrade, Downgrade, or Cancel a Credit Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/five-cards-and-one-million-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:33:16Z</news:publication_date>
+      <news:title>Five Cards and One Million Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/maximize-100k-chase-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:33:09Z</news:publication_date>
+      <news:title>3 Best Ways to Use 100,000 Chase Ultimate Rewards Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-trifecta-the-ultimate-beginner-credit-card-setup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:33:06Z</news:publication_date>
+      <news:title>Chase Trifecta | The Ultimate Beginner Credit Card Setup</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/all-about-fifth-freedom-routes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:32:54Z</news:publication_date>
+      <news:title>What Are Fifth Freedom Flights and How to Book Them</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-new-york-to-santiago</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:32:18Z</news:publication_date>
+      <news:title>Deal Alert: New York to Santiago for $554 Round-trip</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/sapphire-preferred-eligibility</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:32:09Z</news:publication_date>
+      <news:title>Who’s Eligible for the Chase Sapphire Preferred Card?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/sapphire-preferred-hotel-credit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:31:51Z</news:publication_date>
+      <news:title>How to Use the $50 Hotel Credit on the Chase Sapphire Preferred Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/downgrade-chase-credit-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:31:33Z</news:publication_date>
+      <news:title>How To Downgrade A Chase Credit Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/united-jetblue-partnership</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:31:19Z</news:publication_date>
+      <news:title>JetBlue and United Launch 'Blue Sky' Partnership: What to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-ink-business-unlimited-r-credit-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:24:33Z</news:publication_date>
+      <news:title>Is The Ink Business Unlimited® Credit Card Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/united-card-overhaul</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:24:30Z</news:publication_date>
+      <news:title>Major Changes to United Cards: New Benefits, Welcome Offers and Higher Annual Fees</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/when-to-choose-one-way-vs-round-trip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:24:23Z</news:publication_date>
+      <news:title>One-Way Flights vs. Round-Trip Flights: Which Should You Book?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/reasons-you-need-chase-sapphire-preferred</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:24:04Z</news:publication_date>
+      <news:title>9 Reasons You Need the Chase Sapphire Preferred® Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/5-reasons-why-the-chase-sapphire-preferred-card-is-great-for-retirees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:23:20Z</news:publication_date>
+      <news:title>5 Reasons Why the Chase Sapphire Preferred Card is Great for Retirees</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-business-class-to-dublin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:22:38Z</news:publication_date>
+      <news:title>Deal Alert: Fly Business-Class to Dublin for 45k Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-ultimate-guide-to-world-of-hyatt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:21:43Z</news:publication_date>
+      <news:title>The Ultimate Guide to World of Hyatt</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-best-card-for-starters-and-experts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:21:22Z</news:publication_date>
+      <news:title>The Best Card for Starters (and Experts)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-book-this-12k-private-island-for-free</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:21:09Z</news:publication_date>
+      <news:title>How to Book This $12k Private Island for Free</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-7-best-95-annual-fee-credit-cards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:20:54Z</news:publication_date>
+      <news:title>The 7 Best $95 Annual Fee Credit Cards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-fly-lufthansa-first-class-using-miles-and-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:20:40Z</news:publication_date>
+      <news:title>How to Fly Lufthansa First Class Using Miles and Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-chase-freedom-unlimited-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:20:16Z</news:publication_date>
+      <news:title>Is the Chase Freedom Unlimited Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-our-number-one-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:19:24Z</news:publication_date>
+      <news:title>Is Our Number One Card Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-nashville-to-montreal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:19:18Z</news:publication_date>
+      <news:title>Deal Alert: Nashville to Montreal for $229 Round-trip</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/bilt-rewards-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:19:10Z</news:publication_date>
+      <news:title>Complete Guide to Bilt Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-earn-frontier-platinum-status-without-breaking-the-bank</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:18:57Z</news:publication_date>
+      <news:title>How to Earn Frontier Platinum Status (Without Breaking the Bank)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-book-a-free-vacation-using-world-of-hyatt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:18:43Z</news:publication_date>
+      <news:title>How to Book a Free Vacation Using World of Hyatt</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-redeem-chase-points-for-max-value-10c-per-point</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:18:31Z</news:publication_date>
+      <news:title>How to Redeem Chase Points For Max Value (10¢+ Per Point)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/citi-strata-premier-review-game-changer-or-overhyped</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:18:22Z</news:publication_date>
+      <news:title>Citi Strata Premier Review | Game Changer or Overhyped?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/why-we-love-the-bilt-mastercard</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:18:17Z</news:publication_date>
+      <news:title>Why We Love The Bilt Mastercard</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-fly-emirates-first-class-using-miles-and-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:17:33Z</news:publication_date>
+      <news:title>How to Fly Emirates First Class Using Miles and Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-best-travel-credit-card-for-all-inclusive-hotels-and-resorts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:17:26Z</news:publication_date>
+      <news:title>The Best Travel Credit Card for All-Inclusive Hotels and Resorts</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-offer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:17:20Z</news:publication_date>
+      <news:title>Earn up to 60,000 Bonus Points With the Chase Sapphire Preferred</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-los-angeles-budapest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:17:14Z</news:publication_date>
+      <news:title>Deal Alert: Los Angeles to Budapest for $460 Round-trip</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-paris-for-12k-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:17:10Z</news:publication_date>
+      <news:title>Deal Alert: Fly to Paris for 12k Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/transferable-points-vs-airline-miles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:16:41Z</news:publication_date>
+      <news:title>Why You Should Focus on Transferable Points Over Airline Miles</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-san-francisco-to-mumbai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:16:31Z</news:publication_date>
+      <news:title>Deal Alert: San Francisco to Mumbai for $494 Round-Trip</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/fly-to-hawaii-with-points-miles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:16:27Z</news:publication_date>
+      <news:title>How to Fly to Hawaii With Points and Miles</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/airline-change-and-cancellation-rules</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:16:17Z</news:publication_date>
+      <news:title>Complete Guide to Airline Change and Cancellation Rules</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/points-deal-la-to-quito</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:16:12Z</news:publication_date>
+      <news:title>Deal Alert: Fly to Quito for 5.7k Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/discover-cash-back-calendar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:16:08Z</news:publication_date>
+      <news:title>Discover 5% Cash Back Calendar: Activate Q3 2025 Categories</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-guide-to-hyatt-all-inclusive-hotels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:09:40Z</news:publication_date>
+      <news:title>The Guide to Hyatt All-Inclusive Hotels</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/miles-and-points-in-two-player-mode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:09:34Z</news:publication_date>
+      <news:title>Miles and Points in Two-Player Mode</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/why-you-should-pair-the-chase-freedom-unlimited-card-with-the-chase-sapphire-preferred-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:09:23Z</news:publication_date>
+      <news:title>Why You Should Pair the Chase Freedom Unlimited Card with the Chase Sapphire Preferred Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-easiest-way-to-redeem-miles-and-points-free-iceland-flights</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:09:20Z</news:publication_date>
+      <news:title>The Easiest Way to Redeem Miles and Points (Free Iceland Flights)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/a-very-beginner-s-guide-to-credit-card-travel-insurance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:50Z</news:publication_date>
+      <news:title>A (Very) Beginner's Guide to Credit Card Travel Insurance</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-book-a-disney-world-vacation-with-miles-and-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:46Z</news:publication_date>
+      <news:title>How to Book a Disney World Vacation with Miles and Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/why-we-love-this-two-card-combo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:42Z</news:publication_date>
+      <news:title>Why We Love This Two Card Combo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/hoteltonight-airbnb-promotion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:37Z</news:publication_date>
+      <news:title>Book a Hotel, Get 10% Back for Airbnb</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/book-jamaica-with-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:31Z</news:publication_date>
+      <news:title>How to Book an All-Inclusive Jamaica Vacation with Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-ink-business-cash-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:27Z</news:publication_date>
+      <news:title>Is the Ink Business Cash Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-go-to-guide-for-credit-card-transfer-partners</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:24Z</news:publication_date>
+      <news:title>The Go-To Guide for Credit Card Transfer Partners</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-freedom-calendar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:15Z</news:publication_date>
+      <news:title>Chase Freedom 5% Cash Back Categories: 2025 Calendar</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-open-cards-young-adult</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:10Z</news:publication_date>
+      <news:title>How I Opened 4 Credit Cards by Age 23</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-ultimate-guide-to-marriott-bonvoy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:08Z</news:publication_date>
+      <news:title>The Ultimate Guide to Marriott Bonvoy</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-fly-on-a-7-400-flight-for-almost-free-using-flying-blue-promos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:08:03Z</news:publication_date>
+      <news:title>How to Fly on a $7,400 Flight for (Almost) Free Using Flying Blue Promos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-visit-mexico-city-for-cheap</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:07:58Z</news:publication_date>
+      <news:title>How to Visit Mexico City for Cheap</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-chase-sapphire-preferred-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:07:55Z</news:publication_date>
+      <news:title>Why I Love the Chase Sapphire Preferred Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-diversifying-points-saves-you-miles-and-money</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:07:52Z</news:publication_date>
+      <news:title>How Diversifying Points Saves You Miles (and Money!)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-worth-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:07:49Z</news:publication_date>
+      <news:title>Is the Chase Sapphire Preferred Card Worth the $95 Annual Fee?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-travel-portal-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:07:44Z</news:publication_date>
+      <news:title>How to Use the Chase Travel Portal</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-vs-amex-gold</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:07:38Z</news:publication_date>
+      <news:title>Amex Gold vs. Chase Sapphire Preferred: Which Card Is Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/upgrading-your-credit-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:07:34Z</news:publication_date>
+      <news:title>How to Upgrade Your Credit Card (But Should You?)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-rewards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:07:30Z</news:publication_date>
+      <news:title>How to Maximize Your Earnings With the Chase Sapphire Preferred® Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/3-weekend-getaways-with-this-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T15:07:15Z</news:publication_date>
+      <news:title>3 Weekend Getaways You Can Book With This Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/westin-grand-cayman-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T10:30:01Z</news:publication_date>
+      <news:title>The Westin Grand Cayman: Sunrise Yoga, Sunset Rum Punch, and the Dreamiest Beach</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/what-is-daily-drop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-02T06:48:27Z</news:publication_date>
+      <news:title>What is Daily Drop</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-01T21:01:39Z</news:publication_date>
+      <news:title>Current Point Transfer Bonuses</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/amex-membership-rewards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-01T20:12:02Z</news:publication_date>
+      <news:title>Complete Guide to American Express Membership Rewards</news:title>
+    </news:news>
+  </url>
+</urlset>
