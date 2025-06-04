@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/buy-ihg-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-04T12:00:01Z</news:publication_date>
+      <news:title>Should You Buy IHG One Rewards Points With a 100% Bonus?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/capital-one-lounge-access-changes</loc>
     <news:news>
       <news:publication>
@@ -977,17 +988,6 @@
       </news:publication>
       <news:publication_date>2025-06-02T15:07:15Z</news:publication_date>
       <news:title>3 Weekend Getaways You Can Book With This Card</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/westin-grand-cayman-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-02T10:30:01Z</news:publication_date>
-      <news:title>The Westin Grand Cayman: Sunrise Yoga, Sunset Rum Punch, and the Dreamiest Beach</news:title>
     </news:news>
   </url>
 </urlset>
