@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/deal-east-coast-marrakesh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-05T17:27:38Z</news:publication_date>
+      <news:title>Deal Alert: East Coast to Marrakesh for $399 Round-Trip</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/capital-one-lounge-access-changes</loc>
     <news:news>
       <news:publication>
@@ -20,17 +31,6 @@
       </news:publication>
       <news:publication_date>2025-06-04T16:55:44Z</news:publication_date>
       <news:title>Should You Buy IHG One Rewards Points With a 100% Bonus?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/aa-787-9p-first-look</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-03T18:04:08Z</news:publication_date>
-      <news:title>First Look: American’s New 787 Dreamliner With Flagship Suites</news:title>
     </news:news>
   </url>
 </urlset>
