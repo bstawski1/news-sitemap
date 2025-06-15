@@ -77,15 +77,4 @@
       <news:title>Current Point Transfer Bonuses</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/traveling-to-syria</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-13T04:02:46Z</news:publication_date>
-      <news:title>What It's Like to Travel to Syria in 2025?</news:title>
-    </news:news>
-  </url>
 </urlset>
