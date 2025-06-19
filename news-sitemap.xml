@@ -77,48 +77,4 @@
       <news:title>Daily Drop's Guide to Airport Lounge Access</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-amex-platinum-card-worth-the-annual-fee</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-17T15:54:48Z</news:publication_date>
-      <news:title>Is the Amex Platinum card worth the annual fee?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/chase-sapphire-reserve-changes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-17T15:42:13Z</news:publication_date>
-      <news:title>Big Changes to the Chase Sapphire Reserve: New Benefits, Higher Annual Fee</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/amex-membership-rewards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-17T15:40:26Z</news:publication_date>
-      <news:title>Complete Guide to American Express Membership Rewards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/chase-sapphire-reserve-business</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-17T14:47:44Z</news:publication_date>
-      <news:title>Meet the New Chase Sapphire Reserve for Business</news:title>
-    </news:news>
-  </url>
 </urlset>
