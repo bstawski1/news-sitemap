@@ -66,26 +66,4 @@
       <news:title>How to Use Your Amex Platinum Hotel Credit</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-rewards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-18T15:25:01Z</news:publication_date>
-      <news:title>How to Maximize Your Earnings With the Chase Sapphire Preferred® Card</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-offer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-18T15:24:07Z</news:publication_date>
-      <news:title>Earn up to 60,000 Bonus Points With the Chase Sapphire Preferred</news:title>
-    </news:news>
-  </url>
 </urlset>
