@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/reasons-you-need-chase-sapphire-preferred</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-24T20:19:47Z</news:publication_date>
+      <news:title>9 Reasons You Need the Chase Sapphire Preferred® Card</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/why-you-should-pair-the-chase-freedom-unlimited-card-with-the-chase-sapphire-preferred-card</loc>
     <news:news>
       <news:publication>
@@ -119,17 +130,6 @@
       </news:publication>
       <news:publication_date>2025-06-24T15:11:29Z</news:publication_date>
       <news:title>The Ultimate Guide to Marriott Bonvoy</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/reasons-you-need-chase-sapphire-preferred</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-24T15:08:36Z</news:publication_date>
-      <news:title>9 Reasons You Need the Chase Sapphire Preferred® Card</news:title>
     </news:news>
   </url>
   <url>
