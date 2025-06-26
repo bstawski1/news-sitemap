@@ -209,15 +209,4 @@
       <news:title>The Ultimate Guide to Marriott Bonvoy</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/the-shops-at-chase</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-06-24T04:00:08Z</news:publication_date>
-      <news:title>Complete Guide to The Shops at Chase for Sapphire Reserve Cardholders</news:title>
-    </news:news>
-  </url>
 </urlset>
