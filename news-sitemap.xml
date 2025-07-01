@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/united-card-overhaul</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-01T18:55:57Z</news:publication_date>
+      <news:title>Major Changes to United Cards: New Benefits, Welcome Offers and Higher Annual Fees</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/introducing-daily-drop-pro</loc>
     <news:news>
       <news:publication>
@@ -9,6 +20,17 @@
       </news:publication>
       <news:publication_date>2025-07-01T17:45:48Z</news:publication_date>
       <news:title>What is Daily Drop Pro?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/amex-membership-rewards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-01T14:41:30Z</news:publication_date>
+      <news:title>Complete Guide to American Express Membership Rewards</news:title>
     </news:news>
   </url>
   <url>
@@ -29,19 +51,8 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-07-01T14:14:49Z</news:publication_date>
+      <news:publication_date>2025-07-01T14:29:35Z</news:publication_date>
       <news:title>Sapphire Reserve for Business vs. Amex Business Platinum: Which Card is Right for You?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/amex-membership-rewards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-01T14:12:06Z</news:publication_date>
-      <news:title>Complete Guide to American Express Membership Rewards</news:title>
     </news:news>
   </url>
   <url>
