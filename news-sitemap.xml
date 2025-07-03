@@ -187,15 +187,4 @@
       <news:title>JetBlue and United Launch 'Blue Sky' Partnership: What to Know</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/introducing-daily-drop-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-01T20:32:20Z</news:publication_date>
-      <news:title>What is Daily Drop Pro?</news:title>
-    </news:news>
-  </url>
 </urlset>
