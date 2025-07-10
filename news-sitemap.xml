@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/buy-world-of-hyatt-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-10T12:00:01Z</news:publication_date>
+      <news:title>Should You Buy World of Hyatt Points With a Discount?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/amazon-amex-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-10T10:25:35Z</news:publication_date>
+      <news:title>How to Get 50% Off Amazon Orders With 1 Membership Rewards Point</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/our-top-credit-cards-for-february-2025</loc>
     <news:news>
       <news:publication>
@@ -1076,28 +1098,6 @@
       </news:publication>
       <news:publication_date>2025-07-08T19:27:00Z</news:publication_date>
       <news:title>When to Upgrade, Downgrade, or Cancel a Credit Card</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-earn-over-a-million-chase-ultimate-rewards-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-08T19:26:57Z</news:publication_date>
-      <news:title>How To Earn Over a Million Chase Ultimate Rewards Points</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-book-a-5-000-cruise-with-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-08T19:26:54Z</news:publication_date>
-      <news:title>How to Book a $5,000 Cruise with Points</news:title>
     </news:news>
   </url>
 </urlset>
