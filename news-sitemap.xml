@@ -110,15 +110,4 @@
       <news:title>Current Point Transfer Bonuses</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/fly-to-japan-with-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-15T20:17:49Z</news:publication_date>
-      <news:title>Best Ways to Fly to Japan With Miles and Points</news:title>
-    </news:news>
-  </url>
 </urlset>
