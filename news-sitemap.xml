@@ -11,26 +11,4 @@
       <news:title>Complete Guide to Accor Live Limitless (ALL)</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/major-shake-up-on-the-hilton-credit-cards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-17T21:36:52Z</news:publication_date>
-      <news:title>Major Shake-Up on the Hilton Credit Cards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/united-card-overhaul</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-17T20:32:30Z</news:publication_date>
-      <news:title>Major Changes to United Cards: New Benefits, Welcome Offers and Higher Annual Fees</news:title>
-    </news:news>
-  </url>
 </urlset>
