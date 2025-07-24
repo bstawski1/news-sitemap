@@ -44,15 +44,4 @@
       <news:title>Daily Drop's Guide to Delta SkyMiles</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/guide-to-sapphire-dining-program</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-22T14:29:21Z</news:publication_date>
-      <news:title>Our Ultimate Guide to the Chase Sapphire Dining Program</news:title>
-    </news:news>
-  </url>
 </urlset>
