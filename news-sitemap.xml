@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/6-reasons-why-you-need-the-southwest-rapid-rewards-r-plus-credit-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-24T17:35:11Z</news:publication_date>
+      <news:title>6 Reasons Why You Need the Southwest Rapid Rewards® Plus Credit Card</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/southwest-fare-changes</loc>
     <news:news>
       <news:publication>
@@ -53,17 +64,6 @@
       </news:publication>
       <news:publication_date>2025-07-24T17:17:42Z</news:publication_date>
       <news:title>7 Reasons Why the Southwest Rapid Rewards® Plus Credit Card is Best for Retirees</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/6-reasons-why-you-need-the-southwest-rapid-rewards-r-plus-credit-card</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-24T17:16:50Z</news:publication_date>
-      <news:title>6 Reasons Why You Need the Southwest Rapid Rewards® Plus Credit Card</news:title>
     </news:news>
   </url>
   <url>
