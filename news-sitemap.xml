@@ -143,15 +143,4 @@
       <news:title>Earn Southwest Companion Pass for under $100</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/southwest-s-co-branded-credit-cards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-23T02:07:44Z</news:publication_date>
-      <news:title>Southwest's Co-Branded Credit Cards</news:title>
-    </news:news>
-  </url>
 </urlset>
