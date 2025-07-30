@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/citi-strata-elite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-30T20:14:14Z</news:publication_date>
+      <news:title>Citi Strata Elite Is Here: Meet Citi’s New Premium Travel Card</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/guide-to-amex-global-dining</loc>
     <news:news>
       <news:publication>
@@ -20,17 +31,6 @@
       </news:publication>
       <news:publication_date>2025-07-30T11:00:02Z</news:publication_date>
       <news:title>Best Italy Hotels You Can Book with Points (By Region)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/citi-strata-elite</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-30T04:58:41Z</news:publication_date>
-      <news:title>Citi Strata Elite Is Here: Meet Citi’s New Premium Travel Card</news:title>
     </news:news>
   </url>
   <url>
