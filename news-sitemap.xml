@@ -154,15 +154,4 @@
       <news:title>Last Chance: Earn up to 100K Points and a $500 Travel Credit with the Sapphire Reserve</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/minimum-connection-times</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-14T12:19:23Z</news:publication_date>
-      <news:title>What Are Minimum Connection Times?</news:title>
-    </news:news>
-  </url>
 </urlset>
