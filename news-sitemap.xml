@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/airbnb-booking-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-18T10:00:01Z</news:publication_date>
+      <news:title>How to Book an Airbnb: Find the Best Place and Save Money</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/citi-double-cash-vs-custom-cash</loc>
     <news:news>
       <news:publication>
