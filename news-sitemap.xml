@@ -7,8 +7,19 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-21T17:34:32Z</news:publication_date>
+      <news:publication_date>2025-08-21T18:59:33Z</news:publication_date>
       <news:title>Earn 125K Points with the Sapphire Reserve</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/daily-drop-s-guide-to-delta-skymiles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T18:58:12Z</news:publication_date>
+      <news:title>Daily Drop's Guide to Delta SkyMiles</news:title>
     </news:news>
   </url>
   <url>
