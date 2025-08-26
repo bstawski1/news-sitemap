@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/miles-points-101-how-credit-cards-affect-your-credit-score</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-26T15:46:49Z</news:publication_date>
+      <news:title>Miles &amp; Points 101: How Credit Cards Affect Your Credit Score</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/ultimate-guide-to-priority-pass</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-26T15:44:28Z</news:publication_date>
+      <news:title>Ultimate Guide to Priority Pass</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/getting-started-with-venture-x</loc>
     <news:news>
       <news:publication>
