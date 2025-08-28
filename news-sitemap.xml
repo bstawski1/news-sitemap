@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/the-ultimate-guide-to-world-of-hyatt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T19:19:36Z</news:publication_date>
+      <news:title>The Ultimate Guide to World of Hyatt</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/introducing-daily-drop-pro</loc>
     <news:news>
       <news:publication>
@@ -53,17 +64,6 @@
       </news:publication>
       <news:publication_date>2025-08-26T20:25:30Z</news:publication_date>
       <news:title>You Were Approved for the Venture X Card – Now What?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/deal-munich-for-69k-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T20:13:54Z</news:publication_date>
-      <news:title>Deal Alert: Fly to Munich in Business Class for 69k Points</news:title>
     </news:news>
   </url>
 </urlset>
