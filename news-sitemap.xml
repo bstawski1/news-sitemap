@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/alaska-atmos-rewards-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-05T17:43:05Z</news:publication_date>
+      <news:title>Complete Guide to Alaska Airlines Atmos Rewards Program</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/united-economy-plus-guide</loc>
     <news:news>
       <news:publication>
@@ -23,6 +34,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.dailydrop.com/pages/is-the-american-express-business-gold-rewards-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-04T21:38:49Z</news:publication_date>
+      <news:title>Is The American Express® Business Gold Rewards Card Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/buy-ihg-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-04T16:56:59Z</news:publication_date>
+      <news:title>Should You Buy IHG One Rewards Points With a 100% Bonus?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/ihg-one-rewards-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-04T16:29:12Z</news:publication_date>
+      <news:title>Complete Guide to IHG One Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/our-top-credit-cards-for-february-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-04T16:14:13Z</news:publication_date>
+      <news:title>Our Top Credit Cards for February 2025</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-7-best-95-annual-fee-credit-cards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-04T16:11:24Z</news:publication_date>
+      <news:title>The 7 Best $95 Annual Fee Credit Cards</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/maximize-capital-one-venture-x-business-bonus</loc>
     <news:news>
       <news:publication>
@@ -31,17 +97,6 @@
       </news:publication>
       <news:publication_date>2025-09-04T10:00:01Z</news:publication_date>
       <news:title>How I’d Book a Hawaii Dream Trip With the Venture X Business Bonus</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/turn-business-expenses-into-first-class</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-03T17:58:43Z</news:publication_date>
-      <news:title>How to Turn Business Expenses Into a First-Class Flight</news:title>
     </news:news>
   </url>
 </urlset>
