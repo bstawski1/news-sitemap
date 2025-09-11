@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/visa-vs-mastercard-explained</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T10:30:01Z</news:publication_date>
+      <news:title>Visa vs. Mastercard Explained: Travel Benefits, Perks, and Best Cards</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/deal-madrid-for-8k-points</loc>
     <news:news>
       <news:publication>
@@ -20,17 +31,6 @@
       </news:publication>
       <news:publication_date>2025-09-09T16:50:00Z</news:publication_date>
       <news:title>Is the Capital One Spark Cash Select Card Right for You?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/credit-card-transfer-bonuses-explained</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T12:00:01Z</news:publication_date>
-      <news:title>What Are Credit Card Transfer Bonuses?</news:title>
     </news:news>
   </url>
 </urlset>
