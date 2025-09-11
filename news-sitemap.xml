@@ -22,15 +22,4 @@
       <news:title>Deal Alert: Fly to Madrid for Just 8k Points</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/capital-one-spark-cash-select-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T16:50:00Z</news:publication_date>
-      <news:title>Is the Capital One Spark Cash Select Card Right for You?</news:title>
-    </news:news>
-  </url>
 </urlset>
