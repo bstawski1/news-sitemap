@@ -1,6 +1,50 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/most-flexible-welcome-offer-ever</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-12T16:02:30Z</news:publication_date>
+      <news:title>Most Flexible Welcome Offer EVER</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-ink-business-unlimited-r-credit-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-12T15:54:36Z</news:publication_date>
+      <news:title>Is The Ink Business Unlimited® Credit Card Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/turn-side-hustle-into-travel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-12T15:54:09Z</news:publication_date>
+      <news:title>Turn Side Hustle Spending Into Free Travel With These Cards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-12T14:27:29Z</news:publication_date>
+      <news:title>Current Point Transfer Bonuses</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/delay-reimbursement-guide</loc>
     <news:news>
       <news:publication>
@@ -53,17 +97,6 @@
       </news:publication>
       <news:publication_date>2025-09-10T16:16:15Z</news:publication_date>
       <news:title>7 Reasons Why the Southwest Rapid Rewards® Plus Credit Card is Best for Retirees</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/6-reasons-why-you-need-the-southwest-rapid-rewards-r-plus-credit-card</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T15:55:47Z</news:publication_date>
-      <news:title>6 Reasons Why You Need the Southwest Rapid Rewards® Plus Credit Card</news:title>
     </news:news>
   </url>
 </urlset>
