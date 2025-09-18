@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/choosing-your-second-travel-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-18T21:39:53Z</news:publication_date>
+      <news:title>Beginner’s Guide to Choosing Your Second Travel Rewards Card</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/amex-platinum-hotel-credit</loc>
     <news:news>
       <news:publication>
@@ -1087,17 +1098,6 @@
       </news:publication>
       <news:publication_date>2025-09-18T15:11:39Z</news:publication_date>
       <news:title>Best Italy Hotels You Can Book with Points (By Region)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/mexico-city-points-miles</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-18T15:11:30Z</news:publication_date>
-      <news:title>How to Travel to Mexico City Using Miles and Points</news:title>
     </news:news>
   </url>
 </urlset>
