@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/a-very-beginner-s-guide-to-credit-card-travel-insurance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-26T20:33:42Z</news:publication_date>
+      <news:title>A (Very) Beginner's Guide to Credit Card Travel Insurance</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/amex-platinum-hertz</loc>
     <news:news>
       <news:publication>
@@ -20,17 +31,6 @@
       </news:publication>
       <news:publication_date>2025-09-25T18:26:11Z</news:publication_date>
       <news:title>Our Top Credit Cards for February 2025</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/deal-usa-hong-kong</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-24T20:55:15Z</news:publication_date>
-      <news:title>Deal Alert: Fly to Hong Kong for Just 22k Points</news:title>
     </news:news>
   </url>
 </urlset>
