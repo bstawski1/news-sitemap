@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/vegas-points-hotels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-08T18:28:34Z</news:publication_date>
+      <news:title>Best Vegas Hotels You Can Book With Points</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/citi-thankyou-rewards-guide</loc>
     <news:news>
       <news:publication>
@@ -56,17 +67,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.dailydrop.com/pages/vegas-points-hotels</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-08T10:00:01Z</news:publication_date>
-      <news:title>Best Vegas Hotels You Can Book With Points</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.dailydrop.com/pages/ultimate-guide-to-priority-pass</loc>
     <news:news>
       <news:publication>
@@ -119,28 +119,6 @@
       </news:publication>
       <news:publication_date>2025-10-06T22:06:03Z</news:publication_date>
       <news:title>How to Spend a Weekend in Nashville With Points (with Local Tips)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/choosing-your-second-travel-card</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-06T19:57:56Z</news:publication_date>
-      <news:title>Beginner’s Guide to Choosing Your Second Travel Rewards Card</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/amex-platinum-lululemon-oura-credits</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-06T19:37:24Z</news:publication_date>
-      <news:title>Why I Love the New Amex Platinum Lululemon and Oura Ring Credits</news:title>
     </news:news>
   </url>
 </urlset>
