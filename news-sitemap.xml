@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/authorized-users-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-16T11:00:10Z</news:publication_date>
+      <news:title>Should You Add an Authorized User to Your Credit Card?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/how-to-transfer-avios</loc>
     <news:news>
       <news:publication>
@@ -20,17 +31,6 @@
       </news:publication>
       <news:publication_date>2025-10-14T15:45:10Z</news:publication_date>
       <news:title>Tallinn, Estonia: The Medieval Fairytale You’ll Want to Move To</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/book-cruise-with-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-14T11:00:01Z</news:publication_date>
-      <news:title>How to Book a Cruise Using Points and Miles</news:title>
     </news:news>
   </url>
 </urlset>
