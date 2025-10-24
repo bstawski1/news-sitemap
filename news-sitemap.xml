@@ -66,15 +66,4 @@
       <news:title>Current Point Transfer Bonuses</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/lyft-amex-rewards-stack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-22T12:42:52Z</news:publication_date>
-      <news:title>Double (or Triple) Dip on Lyft With This Rewards Stack</news:title>
-    </news:news>
-  </url>
 </urlset>
