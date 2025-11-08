@@ -231,26 +231,4 @@
       <news:title>Daily Drop's Guide to Airport Lounge Access</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/our-top-credit-cards-for-february-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-06T17:55:07Z</news:publication_date>
-      <news:title>Our Top Credit Cards for February 2025</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-06T16:22:16Z</news:publication_date>
-      <news:title>Current Point Transfer Bonuses</news:title>
-    </news:news>
-  </url>
 </urlset>
