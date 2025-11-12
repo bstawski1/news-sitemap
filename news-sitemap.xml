@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/is-the-capital-one-spark-cash-plus-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-12T21:24:36Z</news:publication_date>
+      <news:title>Is The Capital One® Spark Cash Plus Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-earn-miles-and-points-from-your-wedding-expenses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-12T18:33:13Z</news:publication_date>
+      <news:title>How to Earn Miles and Points from Your Wedding Expenses</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/is-the-venture-x-business-card-right-for-you</loc>
     <news:news>
       <news:publication>
@@ -97,17 +119,6 @@
       </news:publication>
       <news:publication_date>2025-11-12T18:11:31Z</news:publication_date>
       <news:title>The Perfect Pair: Chase Sapphire Preferred &amp; Capital One Venture X</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-earn-miles-and-points-from-your-wedding-expenses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T18:10:59Z</news:publication_date>
-      <news:title>How to Earn Miles and Points from Your Wedding Expenses</news:title>
     </news:news>
   </url>
   <url>
