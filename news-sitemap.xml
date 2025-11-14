@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/points-currency-cheat-sheet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T03:43:49Z</news:publication_date>
+      <news:title>Points Currency Cheat Sheet: Which Cards Access Which Points Programs</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
     <news:news>
       <news:publication>
@@ -64,17 +75,6 @@
       </news:publication>
       <news:publication_date>2025-11-13T14:19:09Z</news:publication_date>
       <news:title>The Ultimate Guide to World of Hyatt</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/points-currency-cheat-sheet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-13T12:00:01Z</news:publication_date>
-      <news:title>Points Currency Cheat Sheet: Which Cards Access Which Points Programs</news:title>
     </news:news>
   </url>
   <url>
