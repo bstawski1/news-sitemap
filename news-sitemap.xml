@@ -33,15 +33,4 @@
       <news:title>Current Point Transfer Bonuses</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/timing-award-bookings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-18T12:00:01Z</news:publication_date>
-      <news:title>Beginner’s Guide to Award Availability: When to Apply, Earn, and Book With Points</news:title>
-    </news:news>
-  </url>
 </urlset>
