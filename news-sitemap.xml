@@ -55,15 +55,4 @@
       <news:title>Booked: My $30,000 All-Suites Trip Around The World</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/capital-one-48-month-rule</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T17:56:50Z</news:publication_date>
-      <news:title>Ultimate Guide to Capital One 48-Month Rule</news:title>
-    </news:news>
-  </url>
 </urlset>
