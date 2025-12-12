@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/the-perfect-pair-chase-sapphire-preferred-capital-one-venture-x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-12T15:32:09Z</news:publication_date>
+      <news:title>Card Power Couple: Ultimate Travel Set-Up</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/100-vs-1k-in-hong-kong</loc>
     <news:news>
       <news:publication>
@@ -53,17 +64,6 @@
       </news:publication>
       <news:publication_date>2025-12-11T16:07:50Z</news:publication_date>
       <news:title>Is the Chase Freedom Unlimited Right For You?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/30k-trip-around-the-world</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T16:10:08Z</news:publication_date>
-      <news:title>Booked: My $30,000 All-Suites Trip Around The World</news:title>
     </news:news>
   </url>
 </urlset>
