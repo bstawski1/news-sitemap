@@ -55,37 +55,4 @@
       <news:title>Turn Your Holiday Spending Into Free Travel</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-11T16:11:46Z</news:publication_date>
-      <news:title>Current Point Transfer Bonuses</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/the-power-of-a-credit-card-trifecta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-11T16:07:56Z</news:publication_date>
-      <news:title>The Power of a Credit Card Trifecta</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-chase-freedom-unlimited-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-11T16:07:50Z</news:publication_date>
-      <news:title>Is the Chase Freedom Unlimited Right For You?</news:title>
-    </news:news>
-  </url>
 </urlset>
