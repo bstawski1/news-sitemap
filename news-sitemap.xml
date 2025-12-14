@@ -1,25 +1,2 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url>
-    <loc>https://www.dailydrop.com/pages/capital-one-power-couple</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-12T18:12:26Z</news:publication_date>
-      <news:title>Card Power Couple: Capital One Edition</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/why-you-should-pair-the-chase-freedom-unlimited-card-with-the-chase-sapphire-preferred-card</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-12T16:42:05Z</news:publication_date>
-      <news:title>Card Power Couple: Ultimate Rewards Edition</news:title>
-    </news:news>
-  </url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>
