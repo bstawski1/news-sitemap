@@ -7,8 +7,30 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-17T22:37:52Z</news:publication_date>
+      <news:publication_date>2025-12-19T22:46:26Z</news:publication_date>
       <news:title>How to Earn Over 100,000 Points in Your First Year</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-perfect-pair-chase-sapphire-preferred-capital-one-venture-x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-19T22:40:59Z</news:publication_date>
+      <news:title>Card Power Couple: Ultimate Travel Set-Up</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/capital-one-power-couple</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-19T22:39:40Z</news:publication_date>
+      <news:title>Card Power Couple: Capital One Edition</news:title>
     </news:news>
   </url>
 </urlset>
