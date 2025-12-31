@@ -88,26 +88,4 @@
       <news:title>You Were Approved for the Venture X Card – Now What?</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-capital-one-venture-x-rewards-credit-card-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-29T18:22:23Z</news:publication_date>
-      <news:title>Is the Capital One Venture X Rewards Credit Card Right For You?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/maximize-your-miles-with-online-shopping-portals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-29T18:22:02Z</news:publication_date>
-      <news:title>Maximize Your Miles with Online Shopping Portals</news:title>
-    </news:news>
-  </url>
 </urlset>
