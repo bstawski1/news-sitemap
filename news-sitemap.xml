@@ -1,2 +1,47 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.dailydrop.com/pages/bilt-2-0-changes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-18T17:19:42Z</news:publication_date>
+      <news:title>Bilt 2.0 Is Here: Here’s Everything You Need to Know (Updated)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-use-avios-to-fly-across-africa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-18T17:04:03Z</news:publication_date>
+      <news:title>How to Use Avios to Fly Across Africa</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-18T17:02:15Z</news:publication_date>
+      <news:title>Current Point Transfer Bonuses</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/visit-smoky-mountains-with-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-18T16:58:20Z</news:publication_date>
+      <news:title>How to Visit the Smoky Mountains Using Points and Miles</news:title>
+    </news:news>
+  </url>
+</urlset>
