@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/is-the-chase-sapphire-reserve-r-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T21:23:24Z</news:publication_date>
+      <news:title>Is The Chase Sapphire Reserve® Card Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/safari-with-miles-and-points</loc>
     <news:news>
       <news:publication>
@@ -23,14 +34,47 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.dailydrop.com/pages/chase-sapphire-reserve-business-application</loc>
+    <loc>https://www.dailydrop.com/pages/the-7-best-95-annual-fee-credit-cards</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-22T18:42:50Z</news:publication_date>
-      <news:title>My Experience Applying for the Chase Sapphire Reserve for Business Card</news:title>
+      <news:publication_date>2026-01-22T19:36:16Z</news:publication_date>
+      <news:title>The 7 Best $95 Annual Fee Credit Cards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-sapphire-reserve-business</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-22T19:21:04Z</news:publication_date>
+      <news:title>Offer Ending Soon: Earn 200k Points With This Popular Business Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/sapphire-reserve-for-business-vs-amex-business-platinum-which-card-is-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-22T19:12:56Z</news:publication_date>
+      <news:title>Sapphire Reserve for Business vs. Amex Business Platinum: Which Card is Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/buy-ihg-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-22T19:12:45Z</news:publication_date>
+      <news:title>Should You Buy IHG One Rewards Points With a 100% Bonus?</news:title>
     </news:news>
   </url>
   <url>
@@ -40,8 +84,19 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-22T18:42:27Z</news:publication_date>
+      <news:publication_date>2026-01-22T19:06:21Z</news:publication_date>
       <news:title>Our Top Credit Cards for February 2025</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/sapphire-reserve-business-vs-ink-business-preferred</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-22T18:57:58Z</news:publication_date>
+      <news:title>Sapphire Reserve for Business vs. Ink Business Preferred: Which Card Is Right for You?</news:title>
     </news:news>
   </url>
   <url>
@@ -51,8 +106,19 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-22T18:38:46Z</news:publication_date>
+      <news:publication_date>2026-01-22T18:51:13Z</news:publication_date>
       <news:title>Complete Guide to IHG One Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-sapphire-reserve-business-application</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-22T18:42:50Z</news:publication_date>
+      <news:title>My Experience Applying for the Chase Sapphire Reserve for Business Card</news:title>
     </news:news>
   </url>
 </urlset>
