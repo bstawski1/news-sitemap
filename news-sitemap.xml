@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/safari-with-miles-and-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T16:53:27Z</news:publication_date>
+      <news:title>How to Plan a Safari With Miles and Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/bilt-2-0-changes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T16:36:45Z</news:publication_date>
+      <news:title>Bilt 2.0 Is Here: Here’s Everything You Need to Know (Updated)</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/chase-sapphire-reserve-business-application</loc>
     <news:news>
       <news:publication>
