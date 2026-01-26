@@ -1,2 +1,14 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-capital-one-venture-rewards-credit-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-26T17:07:53Z</news:publication_date>
+      <news:title>Is The Capital One Venture Rewards Credit Card Right For You?</news:title>
+    </news:news>
+  </url>
+</urlset>
