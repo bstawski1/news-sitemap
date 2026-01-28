@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/aaa-vs-hertz-status</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-28T17:00:01Z</news:publication_date>
+      <news:title>AAA vs. Hertz Status: Which Saves More on Car Rentals?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/booking-airbnb-and-non-hotels</loc>
     <news:news>
       <news:publication>
@@ -9,17 +20,6 @@
       </news:publication>
       <news:publication_date>2026-01-28T13:30:01Z</news:publication_date>
       <news:title>Best Ways to Use Credit Card Points for Airbnb and Non-Hotel Stays</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-capital-one-venture-rewards-credit-card-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-26T17:07:53Z</news:publication_date>
-      <news:title>Is The Capital One Venture Rewards Credit Card Right For You?</news:title>
     </news:news>
   </url>
 </urlset>
