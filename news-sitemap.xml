@@ -7,7 +7,7 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-30T22:32:10Z</news:publication_date>
+      <news:publication_date>2026-01-31T22:29:19Z</news:publication_date>
       <news:title>Antarctica Travel Guide: Everything We Learned on the Ocean Albatros</news:title>
     </news:news>
   </url>
@@ -20,17 +20,6 @@
       </news:publication>
       <news:publication_date>2026-01-30T14:18:52Z</news:publication_date>
       <news:title>What is Daily Drop Pro?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/united-card-overhaul</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T00:35:47Z</news:publication_date>
-      <news:title>Major Changes to United Cards: New Benefits, Welcome Offers and Higher Annual Fees</news:title>
     </news:news>
   </url>
 </urlset>
