@@ -44,15 +44,4 @@
       <news:title>Deal Alert: Fly Lie-Flat to Chile for Just 39k Points One-Way</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/winter-shines-brighter-in-colorado</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-17T22:14:42Z</news:publication_date>
-      <news:title>Winter Shines Brighter in Colorado: How to Plan Your Dream Trip</news:title>
-    </news:news>
-  </url>
 </urlset>
