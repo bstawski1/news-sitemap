@@ -1,13 +1,24 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/miles-points-101-nate-s-points-earning-philosophy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-27T20:41:04Z</news:publication_date>
+      <news:title>Miles &amp; Points 101: Nate's Points-Earning Philosophy</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/major-shake-up-on-the-hilton-credit-cards</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-02-27T20:20:22Z</news:publication_date>
+      <news:publication_date>2026-02-27T20:24:22Z</news:publication_date>
       <news:title>Major Shake-Up on the Hilton Credit Cards</news:title>
     </news:news>
   </url>
