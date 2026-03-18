@@ -7,7 +7,7 @@
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-18T16:35:51Z</news:publication_date>
+      <news:publication_date>2026-03-18T17:48:30Z</news:publication_date>
       <news:title>What is Daily Drop</news:title>
     </news:news>
   </url>
@@ -108,17 +108,6 @@
       </news:publication>
       <news:publication_date>2026-03-16T22:21:24Z</news:publication_date>
       <news:title>Complete Guide to Bilt Rewards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/bilt-2-0-changes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-16T17:44:12Z</news:publication_date>
-      <news:title>Bilt 2.0 Is Here: Here’s Everything You Need to Know (Updated)</news:title>
     </news:news>
   </url>
 </urlset>
