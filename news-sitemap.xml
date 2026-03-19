@@ -77,26 +77,4 @@
       <news:title>Is the Ink Business Preferred® right for you?</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/sapphire-reserve-business-vs-ink-business-preferred</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T12:55:16Z</news:publication_date>
-      <news:title>Sapphire Reserve for Business vs. Ink Business Preferred: Which Card Is Right for You?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-ink-business-cash-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T12:54:54Z</news:publication_date>
-      <news:title>Is the Ink Business Cash Right For You?</news:title>
-    </news:news>
-  </url>
 </urlset>
