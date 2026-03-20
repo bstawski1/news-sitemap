@@ -1,14 +1,47 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/us-to-the-bahamas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-20T18:09:25Z</news:publication_date>
+      <news:title>Deal Alert: Fly to the Bahamas From Just 6,000 Points One-Way</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-san-francisco-to-fiji</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-20T18:08:44Z</news:publication_date>
+      <news:title>Deal Alert: Business Class (Lie-Flat) to Fiji from Just 60K Points One-Way</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/deal-miami-to-chile</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-20T18:07:45Z</news:publication_date>
+      <news:title>Deal Alert: Fly Lie-Flat to Chile for Just 39k Points One-Way</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/deal-alert-fly-to-australia-for-35k-points-one-way</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-03-20T16:18:53Z</news:publication_date>
-      <news:title>Deal alert: Fly to Australia for 35K Points One-way</news:title>
+      <news:publication_date>2026-03-20T17:56:41Z</news:publication_date>
+      <news:title>Deal Alert: Fly to Australia for 35K Points One-Way</news:title>
     </news:news>
   </url>
   <url>
@@ -97,17 +130,6 @@
       </news:publication>
       <news:publication_date>2026-03-19T20:46:09Z</news:publication_date>
       <news:title>6 Reasons Why You Need the Southwest Rapid Rewards® Plus Credit Card</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/what-is-daily-drop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T17:48:30Z</news:publication_date>
-      <news:title>What is Daily Drop</news:title>
     </news:news>
   </url>
 </urlset>
