@@ -1,6 +1,39 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/maximize-amex-platinum</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T14:37:28Z</news:publication_date>
+      <news:title>11 Things To Do When You Get the American Express Platinum Card®</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/amex-platinum-vs-sapphire-reserve</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T14:08:48Z</news:publication_date>
+      <news:title>American Express Platinum Card® vs. Chase Sapphire Reserve®: Which Card Is Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/amex-platinum-refresh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T13:39:09Z</news:publication_date>
+      <news:title>Amex Platinum Cards Get Major Refresh — Every New Perk You’ll Get</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/tsa-lines-are-a-mess-right-now-here-s-how-to-get-through-faster</loc>
     <news:news>
       <news:publication>
@@ -20,17 +53,6 @@
       </news:publication>
       <news:publication_date>2026-03-23T18:13:11Z</news:publication_date>
       <news:title>Complete Guide to Citi ThankYou® Rewards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/current-transfer-bonuses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T13:28:24Z</news:publication_date>
-      <news:title>Current Point Transfer Bonuses</news:title>
     </news:news>
   </url>
 </urlset>
