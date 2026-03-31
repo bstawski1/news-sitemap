@@ -44,15 +44,4 @@
       <news:title>Is The Business Platinum Card® Right For You?</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/marriott-bonvoy-guide</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T21:56:16Z</news:publication_date>
-      <news:title>Complete Guide to Marriott Bonvoy</news:title>
-    </news:news>
-  </url>
 </urlset>
