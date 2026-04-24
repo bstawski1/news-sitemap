@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/deal-alert-fly-business-class-to-paris-for-just-60k-points-one-way</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T18:40:13Z</news:publication_date>
+      <news:title>Deal Alert: Fly Business Class to Paris for Just 60k Points One-Way</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/introducing-daily-drop-pro</loc>
     <news:news>
       <news:publication>
