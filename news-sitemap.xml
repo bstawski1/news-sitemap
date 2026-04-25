@@ -33,15 +33,4 @@
       <news:title>What is Daily Drop Pro?</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/disney-inspire-visa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T20:06:26Z</news:publication_date>
-      <news:title>The Disney Card Actually Worth Talking About</news:title>
-    </news:news>
-  </url>
 </urlset>
