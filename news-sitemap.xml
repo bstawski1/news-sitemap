@@ -77,15 +77,4 @@
       <news:title>Earn 125K Points with the Chase Sapphire Reserve®</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/antarctica-travel-guide-everything-we-learned-on-the-ocean-albatros</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T15:21:15Z</news:publication_date>
-      <news:title>Antarctica Travel Guide: Everything We Learned on the Ocean Albatros</news:title>
-    </news:news>
-  </url>
 </urlset>
