@@ -1,25 +1,2 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url>
-    <loc>https://www.dailydrop.com/pages/i-talked-to-three-people-who-pay-795-a-year-for-a-credit-card-here-s-what-they-said</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-01T20:07:49Z</news:publication_date>
-      <news:title>I Talked to Three People Who Pay $795 a Year for a Credit Card -- Here's What They Said.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/deal-alert-fly-to-casablanca-in-business-class-for-40k-points-one-way</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-01T18:57:51Z</news:publication_date>
-      <news:title>Deal Alert: Fly to Casablanca in Business Class for 40k Points One-Way</news:title>
-    </news:news>
-  </url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>
