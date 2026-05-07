@@ -99,15 +99,4 @@
       <news:title>Miles and Points in Two-Player Mode</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/miles-points-101-nate-s-points-earning-philosophy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-05T15:57:09Z</news:publication_date>
-      <news:title>Miles &amp; Points 101: Nate's Points-Earning Philosophy</news:title>
-    </news:news>
-  </url>
 </urlset>
