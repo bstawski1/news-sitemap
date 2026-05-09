@@ -22,15 +22,4 @@
       <news:title>Deal Alert: Non-Stop Toronto to Edinburgh for $493</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/what-is-points-boost</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T17:55:37Z</news:publication_date>
-      <news:title>What Is Points Boost?</news:title>
-    </news:news>
-  </url>
 </urlset>
