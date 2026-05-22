@@ -44,26 +44,4 @@
       <news:title>Complete Guide to Hilton Honors</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/four-countries-four-hiltons-for-free-hilton-honors-crash-course</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T18:12:15Z</news:publication_date>
-      <news:title>Four Countries, Four Hiltons, For Free | Hilton Honors Crash Course</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/major-shake-up-on-the-hilton-credit-cards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T17:57:25Z</news:publication_date>
-      <news:title>Major Shake-Up on the Hilton Credit Cards</news:title>
-    </news:news>
-  </url>
 </urlset>
