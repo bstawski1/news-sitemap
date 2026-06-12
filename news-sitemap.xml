@@ -1,6 +1,83 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/why-you-should-pair-the-chase-freedom-unlimited-card-with-the-chase-sapphire-preferred-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T15:31:05Z</news:publication_date>
+      <news:title>Card Power Couple: Ultimate Rewards Edition</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/5-reasons-why-the-chase-sapphire-preferred-card-is-great-for-retirees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T15:20:08Z</news:publication_date>
+      <news:title>5 Reasons Why the Chase Sapphire Preferred® Card is Great for Retirees</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-rewards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T15:16:43Z</news:publication_date>
+      <news:title>How to Maximize Your Earnings With the Chase Sapphire Preferred® Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/amex-rewards-vs-chase-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T15:08:10Z</news:publication_date>
+      <news:title>American Express Membership Rewards vs. Chase Ultimate Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/venture-vs-sapphire-preferred</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T14:59:21Z</news:publication_date>
+      <news:title>Capital One Venture Rewards Credit Card vs. Chase Sapphire Preferred® Card: Which Card Is Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/sapphire-preferred-eligibility</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T14:56:47Z</news:publication_date>
+      <news:title>Who’s Eligible for the Chase Sapphire Preferred® Card?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/the-chase-sapphire-preferred-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T14:55:21Z</news:publication_date>
+      <news:title>Why I Love the Chase Sapphire Preferred® Card</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/deal-alert-fly-business-class-to-madrid</loc>
     <news:news>
       <news:publication>
@@ -31,17 +108,6 @@
       </news:publication>
       <news:publication_date>2026-06-11T13:52:17Z</news:publication_date>
       <news:title>How to Replace a Lost or Stolen Passport</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/capital-one-power-couple</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T15:59:44Z</news:publication_date>
-      <news:title>Card Power Couple: Capital One Edition</news:title>
     </news:news>
   </url>
 </urlset>
