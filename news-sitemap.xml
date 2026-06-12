@@ -1,6 +1,94 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/all-about-fifth-freedom-routes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T22:17:09Z</news:publication_date>
+      <news:title>What Are Fifth Freedom Flights and How to Book Them</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-travel-portal-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T22:04:12Z</news:publication_date>
+      <news:title>How to Use the Chase TravelSM Portal</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/how-to-redeem-chase-points-for-max-value-10c-per-point</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T21:46:31Z</news:publication_date>
+      <news:title>How to Redeem Chase Points For Max Value</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/sapphire-preferred-hotel-credit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T21:14:19Z</news:publication_date>
+      <news:title>How to Use the $50 Hotel Credit on the Chase Sapphire Preferred® Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/car-rental-insurance-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T21:10:01Z</news:publication_date>
+      <news:title>Complete Guide to Credit Card Rental Car Insurance</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/sapphire-card-eligibility-changes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T20:54:47Z</news:publication_date>
+      <news:title>Good News for Sapphire Card Welcome Offer Eligibility</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/hitting-minimum-spend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T20:39:06Z</news:publication_date>
+      <news:title>10 Smart Ways to Hit Your Card’s Minimum Spend</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/airline-change-and-cancellation-rules</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T20:08:54Z</news:publication_date>
+      <news:title>Complete Guide to Airline Change and Cancellation Rules</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/use-this-95-card-for-europe</loc>
     <news:news>
       <news:publication>
