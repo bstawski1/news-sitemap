@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/ritz-carlton-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T19:51:44Z</news:publication_date>
+      <news:title>The Credit Card Anyone Can Get But No One Can Apply For</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/sapphire-preferred-refresh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T18:46:29Z</news:publication_date>
+      <news:title>Chase Sapphire Preferred® Card Gets a Major Refresh – Here's What's Changing</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/miles-points-101-earning-and-redeeming-miles-and-points</loc>
     <news:news>
       <news:publication>
@@ -229,50 +251,6 @@
       </news:publication>
       <news:publication_date>2026-06-15T20:11:42Z</news:publication_date>
       <news:title>Capital One Venture Rewards Credit Card vs. Chase Sapphire Preferred® Card: Which Card Is Right for You?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/the-best-card-for-starters-and-experts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-15T19:52:30Z</news:publication_date>
-      <news:title>The Best Card for Starters (and Experts)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-worth-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-15T19:35:24Z</news:publication_date>
-      <news:title>Is the Chase Sapphire Preferred® Card Worth the $95 Annual Fee?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/the-chase-sapphire-preferred-card</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-15T19:29:18Z</news:publication_date>
-      <news:title>Why I Love the Chase Sapphire Preferred® Card</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-our-number-one-card-right-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-15T19:14:06Z</news:publication_date>
-      <news:title>Is Our Number One Card Right For You?</news:title>
     </news:news>
   </url>
 </urlset>
