@@ -1,6 +1,39 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/how-to-earn-miles-and-points-from-your-wedding-expenses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T13:33:35Z</news:publication_date>
+      <news:title>How to Earn Miles and Points from Your Wedding Expenses</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/miles-and-points-in-two-player-mode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T13:18:09Z</news:publication_date>
+      <news:title>Miles and Points in Two-Player Mode</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/a-very-beginner-s-guide-to-credit-card-travel-insurance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T12:57:28Z</news:publication_date>
+      <news:title>A (Very) Beginner's Guide to Credit Card Travel Insurance</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/credit-card-trip-cancellation-insurance</loc>
     <news:news>
       <news:publication>
@@ -295,17 +328,6 @@
       </news:publication>
       <news:publication_date>2026-06-15T14:25:23Z</news:publication_date>
       <news:title>The Chase Sapphire Reserve® Just Got a Refresh</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/how-to-earn-miles-and-points-from-your-wedding-expenses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-15T14:18:39Z</news:publication_date>
-      <news:title>How to Earn Miles and Points from Your Wedding Expenses</news:title>
     </news:news>
   </url>
   <url>
