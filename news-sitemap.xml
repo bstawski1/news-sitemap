@@ -33,15 +33,4 @@
       <news:title>The Credit Card Anyone Can Get But No One Can Apply For</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/sapphire-preferred-refresh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T18:46:29Z</news:publication_date>
-      <news:title>Chase Sapphire Preferred® Card Gets a Major Refresh – Here's What's Changing</news:title>
-    </news:news>
-  </url>
 </urlset>
