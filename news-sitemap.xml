@@ -1,6 +1,39 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/vegas-points-hotels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T17:24:18Z</news:publication_date>
+      <news:title>Best Vegas Hotels You Can Book With Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/best-italy-points-hotels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T17:19:32Z</news:publication_date>
+      <news:title>Best Italy Hotels You Can Book with Points (By Region)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/chase-sapphire-preferred-vs-amex-gold</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T17:10:06Z</news:publication_date>
+      <news:title>American Express® Gold Card vs.  Chase Sapphire Preferred® Card: Which Card Is Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/points-pursuit-buffalo</loc>
     <news:news>
       <news:publication>
