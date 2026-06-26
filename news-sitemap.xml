@@ -12,6 +12,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.dailydrop.com/pages/our-top-credit-cards-for-february-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T18:04:06Z</news:publication_date>
+      <news:title>Our Top Credit Cards for February 2025</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/ihg-one-rewards-guide</loc>
     <news:news>
       <news:publication>
@@ -31,28 +42,6 @@
       </news:publication>
       <news:publication_date>2026-06-25T17:36:48Z</news:publication_date>
       <news:title>Should You Buy IHG One Rewards Points With a 100% Bonus?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/our-top-credit-cards-for-february-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-25T17:06:44Z</news:publication_date>
-      <news:title>Our Top Credit Cards for February 2025</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/hyatt-guest-of-honor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T14:45:31Z</news:publication_date>
-      <news:title>Guide to World of Hyatt Guest of Honor</news:title>
     </news:news>
   </url>
 </urlset>
