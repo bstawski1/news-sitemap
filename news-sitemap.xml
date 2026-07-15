@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/flying-blue-program-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T16:37:49Z</news:publication_date>
+      <news:title>Complete Guide to the Air France–KLM Flying Blue Program</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/is-the-amex-platinum-card-worth-the-annual-fee</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T16:08:04Z</news:publication_date>
+      <news:title>Is the American Express Platinum Card® worth the annual fee?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/points-pursuit-minneapolis</loc>
     <news:news>
       <news:publication>
@@ -53,17 +75,6 @@
       </news:publication>
       <news:publication_date>2026-07-14T17:31:57Z</news:publication_date>
       <news:title>Miles &amp; Points 101: Nate's Points-Earning Philosophy</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/is-the-amex-platinum-card-worth-the-annual-fee</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T16:40:14Z</news:publication_date>
-      <news:title>Is the American Express Platinum Card® worth the annual fee?</news:title>
     </news:news>
   </url>
 </urlset>
