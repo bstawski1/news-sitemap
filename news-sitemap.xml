@@ -44,37 +44,4 @@
       <news:title>How I Earned 10,000 points while spending $500</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/points-pursuit-phoenix</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T19:43:21Z</news:publication_date>
-      <news:title>Costco Tacos and Coffee Shops Are Funding My Next Vacation</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/points-pursuit-columbus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T19:42:14Z</news:publication_date>
-      <news:title>Cornhenge, Cincinnati Chili, and One Card That Kept Up</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/points-pursuit-buffalo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T19:41:25Z</news:publication_date>
-      <news:title>The City of Good Neighbors is More Than Wings, the Buffalo Bills, and Snow</news:title>
-    </news:news>
-  </url>
 </urlset>
