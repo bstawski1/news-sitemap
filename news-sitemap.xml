@@ -33,15 +33,4 @@
       <news:title>Is the American Express Platinum Card® worth the annual fee?</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/points-pursuit-minneapolis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T13:46:37Z</news:publication_date>
-      <news:title>How I Earned 10,000 points while spending $500</news:title>
-    </news:news>
-  </url>
 </urlset>
