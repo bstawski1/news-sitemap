@@ -1,6 +1,83 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.dailydrop.com/pages/the-newest-card-in-my-wallet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T19:14:52Z</news:publication_date>
+      <news:title>The newest card in my wallet</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/booking-italy-for-four-on-189-000-points-and-1-874</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T19:13:50Z</news:publication_date>
+      <news:title>Booking Italy for four on 189,000 points and $1,874</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/six-nights-in-tuscany-and-rome-for-two-on-a-teacher-s-calendar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T19:13:09Z</news:publication_date>
+      <news:title>Six nights in Tuscany and Rome for two, on a teacher's calendar</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/solo-through-the-dolomites-on-exactly-200-000-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T19:12:30Z</news:publication_date>
+      <news:title>Solo through the Dolomites on exactly 200,000 points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/family-of-4-to-japan-for-200k-points-and-2-000</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T19:11:37Z</news:publication_date>
+      <news:title>Family of 4 to Japan for 200k points and $2,000</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/one-person-to-japan-for-192k-points-and-453</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T19:10:52Z</news:publication_date>
+      <news:title>One person to Japan for 192k points and $453</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.dailydrop.com/pages/two-people-to-japan-for-200k-points-and-1-393</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T19:10:00Z</news:publication_date>
+      <news:title>Two people to Japan for 200k points and $1,393</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.dailydrop.com/pages/the-ultimate-guide-to-world-of-hyatt</loc>
     <news:news>
       <news:publication>
