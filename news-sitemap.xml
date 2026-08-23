@@ -55,15 +55,4 @@
       <news:title>Two people to Ireland in business class for 192,000 points and $1,946</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.dailydrop.com/pages/business-class-to-brussels-from-60-000-aeroplan-points</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T17:38:55Z</news:publication_date>
-      <news:title>Business Class to Brussels From 60,000 Aeroplan Points</news:title>
-    </news:news>
-  </url>
 </urlset>
