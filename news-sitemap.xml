@@ -1,2 +1,102 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/what-is-a-transfer-bonus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T18:30:00Z</news:publication_date>
+      <news:title>What Is a Transfer Bonus?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/the-power-of-a-credit-card-trifecta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T17:48:46Z</news:publication_date>
+      <news:title>The Power of a Credit Card Trifecta</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/the-american-express-card-trifecta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T17:35:00Z</news:publication_date>
+      <news:title>The American Express Card Trifecta</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/amex-membership-rewards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T17:33:52Z</news:publication_date>
+      <news:title>Complete Guide to American Express Membership Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/amazon-amex-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T17:33:44Z</news:publication_date>
+      <news:title>How to Get 50% Off Amazon Orders With 1 Membership Rewards Point</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/points-currency-cheat-sheet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T17:33:38Z</news:publication_date>
+      <news:title>Points Currency Cheat Sheet: Which Cards Access Which Points Programs</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/capital-one-spark-cash-select-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T17:20:43Z</news:publication_date>
+      <news:title>Is the Capital One Spark Cash Select Card Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/amex-platinum-refresh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T17:19:53Z</news:publication_date>
+      <news:title>Amex Platinum Cards Get Major Refresh — Every New Perk You’ll Get</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/what-is-a-positioning-flight</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T15:17:46Z</news:publication_date>
+      <news:title>What Is a Positioning Flight (And When Is It Worth It)?</news:title>
+    </news:news>
+  </url>
+</urlset>
