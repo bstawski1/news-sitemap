@@ -1,14 +1,47 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://wf-origin.dailydrop.com/pages/cape-town-for-45-000-points-from-more-than-30-airports</loc>
+    <loc>https://wf-origin.dailydrop.com/pages/points-currency-cheat-sheet</loc>
     <news:news>
       <news:publication>
         <news:name>Daily Drop</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-31T14:30:10Z</news:publication_date>
-      <news:title>Cape Town for 45,000 Points From More Than 30 Airports</news:title>
+      <news:publication_date>2026-09-01T18:56:50Z</news:publication_date>
+      <news:title>Points Currency Cheat Sheet: Which Cards Access Which Points Programs</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/guide-to-double-dipping</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T18:41:32Z</news:publication_date>
+      <news:title>Ultimate Guide to Double-Dipping Card Perks</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/citi-strata-elite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T18:26:14Z</news:publication_date>
+      <news:title>Citi Strata Elite Is Here: Meet Citi’s New Premium Travel Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/are-airport-lounges-worth-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T18:26:09Z</news:publication_date>
+      <news:title>Is Airport Lounge Access Still Worth It in 2025?</news:title>
     </news:news>
   </url>
 </urlset>
