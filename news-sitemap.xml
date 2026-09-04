@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://wf-origin.dailydrop.com/pages/five-trips-with-the-venture-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T15:13:12Z</news:publication_date>
+      <news:title>Five Trips You Can Book With the Capital One Venture Rewards Credit Card</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/capital-one-48-month-rule</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T14:54:52Z</news:publication_date>
+      <news:title>Ultimate Guide to Capital One 48-Month Rule</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://wf-origin.dailydrop.com/pages/reader-rewrote-7-day-japan-itinerary</loc>
     <news:news>
       <news:publication>
