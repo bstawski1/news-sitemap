@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://wf-origin.dailydrop.com/pages/united-jetblue-partnership</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-17T16:51:43Z</news:publication_date>
+      <news:title>JetBlue and United Launch 'Blue Sky' Partnership: What to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/hitting-minimum-spend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-17T16:44:23Z</news:publication_date>
+      <news:title>10 Smart Ways to Hit Your Card’s Minimum Spend</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://wf-origin.dailydrop.com/pages/daily-drop-s-guide-to-virgin-atlantic-flying-club</loc>
     <news:news>
       <news:publication>
@@ -64,39 +86,6 @@
       </news:publication>
       <news:publication_date>2026-09-15T21:16:42Z</news:publication_date>
       <news:title>Bilt 2.0 Is Here: Here’s Everything You Need to Know (Updated)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://wf-origin.dailydrop.com/pages/why-maya-mobile-is-my-go-to-esim</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T18:36:01Z</news:publication_date>
-      <news:title>Why Maya Mobile is my go-to eSIM</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://wf-origin.dailydrop.com/pages/best-second-card-after-csp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T18:22:43Z</news:publication_date>
-      <news:title>The Best Second Card After the Chase Sapphire Preferred® Card</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://wf-origin.dailydrop.com/pages/venture-vs-sapphire-preferred</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T18:13:19Z</news:publication_date>
-      <news:title>Capital One Venture Rewards Credit Card vs. Chase Sapphire Preferred® Card: Which Card Is Right for You?</news:title>
     </news:news>
   </url>
 </urlset>
