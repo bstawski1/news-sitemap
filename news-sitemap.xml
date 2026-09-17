@@ -77,15 +77,4 @@
       <news:title>Complete Guide to Accor Live Limitless (ALL)</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://wf-origin.dailydrop.com/pages/bilt-2-0-changes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T21:16:42Z</news:publication_date>
-      <news:title>Bilt 2.0 Is Here: Here’s Everything You Need to Know (Updated)</news:title>
-    </news:news>
-  </url>
 </urlset>
