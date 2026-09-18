@@ -1,6 +1,17 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://wf-origin.dailydrop.com/pages/deal-alert-helsinki-finland-for-62-5k-points-one-way</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-18T15:53:16Z</news:publication_date>
+      <news:title>Deal Alert: Helsinki, Finland for 62.5k Points One-Way</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://wf-origin.dailydrop.com/pages/is-the-ink-business-unlimited-r-credit-card-right-for-you</loc>
     <news:news>
       <news:publication>
@@ -97,17 +108,6 @@
       </news:publication>
       <news:publication_date>2026-09-16T19:03:36Z</news:publication_date>
       <news:title>How to Pay Student Loans and Earn Points on Campus Rent With Bilt</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://wf-origin.dailydrop.com/pages/accor-live-limitless</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-16T18:33:30Z</news:publication_date>
-      <news:title>Complete Guide to Accor Live Limitless (ALL)</news:title>
     </news:news>
   </url>
 </urlset>
