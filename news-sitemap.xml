@@ -1,2 +1,25 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/how-to-plan-the-perfect-honeymoon-with-points-and-miles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T15:37:14Z</news:publication_date>
+      <news:title>How to Plan the Perfect Honeymoon With Points and Miles</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/how-to-earn-miles-and-points-from-your-wedding-expenses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T12:51:34Z</news:publication_date>
+      <news:title>How to Earn Miles and Points from Your Wedding Expenses</news:title>
+    </news:news>
+  </url>
+</urlset>
