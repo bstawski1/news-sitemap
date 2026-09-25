@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://wf-origin.dailydrop.com/pages/nps-survey</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T12:13:36Z</news:publication_date>
+      <news:title>How Likely Are You to Recommend Daily Drop to a Friend?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/free-live-classes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T11:51:02Z</news:publication_date>
+      <news:title>Free Live Classes</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://wf-origin.dailydrop.com/pages/how-to-plan-the-perfect-honeymoon-with-points-and-miles</loc>
     <news:news>
       <news:publication>
