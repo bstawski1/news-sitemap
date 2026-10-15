@@ -1,6 +1,72 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://wf-origin.dailydrop.com/pages/bilt-rewards-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T15:20:13Z</news:publication_date>
+      <news:title>Complete Guide to Bilt Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/5-reasons-why-the-chase-sapphire-preferred-card-is-great-for-retirees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T15:11:43Z</news:publication_date>
+      <news:title>5 Reasons Why the Chase Sapphire Preferred® Card is Great for Retirees</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/is-sapphire-reserve-fee-worth-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T15:08:00Z</news:publication_date>
+      <news:title>Is the Chase Sapphire Reserve®’s $795 Annual Fee Worth It?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/chase-sapphire-reserve-offer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T15:05:33Z</news:publication_date>
+      <news:title>The Chase Sapphire Reserve® Just Got a Refresh</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/amex-platinum-vs-sapphire-reserve</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T14:49:43Z</news:publication_date>
+      <news:title>American Express Platinum Card® vs. Chase Sapphire Reserve®: Which Card Is Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/venture-x-vs-sapphire-reserve</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T14:38:16Z</news:publication_date>
+      <news:title>Capital One Venture X vs. Chase Sapphire Reserve: Which Card Is Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://wf-origin.dailydrop.com/pages/chase-sapphire-reserve-business-credits</loc>
     <news:news>
       <news:publication>
