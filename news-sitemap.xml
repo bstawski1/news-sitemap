@@ -1,2 +1,58 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/chase-sapphire-reserve-business-credits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T14:29:26Z</news:publication_date>
+      <news:title>Chase Sapphire Reserve for BusinessSM Statement Credits: How to Maximize Your Perks</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/amex-platinum-lululemon-oura-credits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T14:23:23Z</news:publication_date>
+      <news:title>Why I Love the New Amex Platinum Lululemon and Oura Ring Credits</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/sapphire-preferred-card-doordash</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T14:18:12Z</news:publication_date>
+      <news:title>Maximize Your Chase Sapphire Preferred® Card DoorDash Benefits</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/sapphire-preferred-refresh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T13:25:43Z</news:publication_date>
+      <news:title>Chase Sapphire Preferred® Card Gets a Major Refresh – Here's What's Changing</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/miles-and-points-in-two-player-mode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T13:21:48Z</news:publication_date>
+      <news:title>Miles and Points in Two-Player Mode</news:title>
+    </news:news>
+  </url>
+</urlset>
