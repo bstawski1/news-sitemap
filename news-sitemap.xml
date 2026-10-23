@@ -1,6 +1,39 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://wf-origin.dailydrop.com/pages/amex-membership-rewards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:25:41Z</news:publication_date>
+      <news:title>Complete Guide to American Express Membership Rewards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/is-the-business-platinum-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:55:36Z</news:publication_date>
+      <news:title>Is The Business Platinum Card® Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/sapphire-reserve-for-business-vs-amex-business-platinum-which-card-is-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:55:29Z</news:publication_date>
+      <news:title>Sapphire Reserve for Business vs. Amex Business Platinum: Which Card is Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://wf-origin.dailydrop.com/pages/5-tips-for-finding-award-flights-to-the-u-s-when-you-live-abroad</loc>
     <news:news>
       <news:publication>
