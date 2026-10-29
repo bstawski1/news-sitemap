@@ -1,6 +1,116 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://wf-origin.dailydrop.com/pages/aa-787-9p-first-look</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T14:09:37Z</news:publication_date>
+      <news:title>First Look: American’s New 787 Dreamliner With Flagship Suites</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/what-is-daily-drop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T14:08:18Z</news:publication_date>
+      <news:title>What is Daily Drop</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/miles-and-points-in-two-player-mode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T14:07:00Z</news:publication_date>
+      <news:title>Miles and Points in Two-Player Mode</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/book-jamaica-with-points</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T14:04:46Z</news:publication_date>
+      <news:title>How to Book an All-Inclusive Jamaica Vacation with Points</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/all-about-fifth-freedom-routes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T14:02:28Z</news:publication_date>
+      <news:title>What Are Fifth Freedom Flights and How to Book Them</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/find-american-airlines-lie-flat-seats</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T14:00:29Z</news:publication_date>
+      <news:title>Which American Airlines Flights Have Lie-Flat Seats (And How to Find Them)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/how-to-use-hotel-point-search-like-a-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T13:59:13Z</news:publication_date>
+      <news:title>How to use Hotel Point Search like a Pro</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/aa-punta-cana-award-sale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T13:55:30Z</news:publication_date>
+      <news:title>Deal Alert: Fly to Punta Cana from just 5,000 miles one-way</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/first-points-redemption-checklist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T13:53:41Z</news:publication_date>
+      <news:title>Your First Points Redemption Checklist (Before You Book)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/what-is-a-positioning-flight</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T13:51:55Z</news:publication_date>
+      <news:title>What Is a Positioning Flight (And When Is It Worth It)?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://wf-origin.dailydrop.com/pages/can-you-plan-three-honeymoons-around-two-welcome-offers</loc>
     <news:news>
       <news:publication>
@@ -64,39 +174,6 @@
       </news:publication>
       <news:publication_date>2026-10-27T14:58:29Z</news:publication_date>
       <news:title>The World's Best Travel Search Tool</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://wf-origin.dailydrop.com/pages/introducing-daily-drop-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T14:45:03Z</news:publication_date>
-      <news:title>What is Daily Drop Pro?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://wf-origin.dailydrop.com/pages/using-daily-drop-pro-step-by-step</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T14:04:08Z</news:publication_date>
-      <news:title>Using Daily Drop Pro Step-by-Step</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://wf-origin.dailydrop.com/pages/daily-drop-pro-flight-savings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Daily Drop</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T14:00:15Z</news:publication_date>
-      <news:title>7 Reasons Daily Drop Pro Will Save You Money on Flights</news:title>
     </news:news>
   </url>
 </urlset>
