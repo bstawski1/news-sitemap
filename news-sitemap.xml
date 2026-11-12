@@ -1,2 +1,69 @@
 <?xml version="1.0" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/major-shake-up-on-the-hilton-credit-cards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:43:30Z</news:publication_date>
+      <news:title>Major Shake-Up on the Hilton Credit Cards</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/is-the-business-platinum-card-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:42:08Z</news:publication_date>
+      <news:title>Is The Business Platinum Card® Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/is-the-platinum-card-r-from-american-express-right-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:40:18Z</news:publication_date>
+      <news:title>Is the American Express Platinum Card® Right For You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/maximize-amex-platinum</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:37:54Z</news:publication_date>
+      <news:title>11 Things To Do When You Get the American Express Platinum Card®</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/amex-platinum-vs-sapphire-reserve</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:33:42Z</news:publication_date>
+      <news:title>American Express Platinum Card® vs. Chase Sapphire Reserve®: Which Card Is Right for You?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://wf-origin.dailydrop.com/pages/venture-x-business-vs-amex-business-platinum</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Daily Drop</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:32:13Z</news:publication_date>
+      <news:title>Capital One Venture X Business vs. The Business Platinum Card® from American Express: Which Card Is Right for You?</news:title>
+    </news:news>
+  </url>
+</urlset>
